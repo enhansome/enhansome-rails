@@ -1,0 +1,1946 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "External Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "maybe",
+          "description": "The personal finance app for everyone (using Rails 7.2.2). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2025-07-24T22:20:44Z",
+            "owner": "maybe-finance",
+            "repo": "maybe",
+            "stars": 54333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mastodon",
+          "description": "A microblogging app (using Rails 6.1). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T14:18:11Z",
+            "owner": "mastodon",
+            "repo": "mastodon",
+            "stars": 50205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "discourse",
+          "description": "A platform for community discussion (using Rails 7.0). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T14:18:43Z",
+            "owner": "discourse",
+            "repo": "discourse",
+            "stars": 47646
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chatwoot",
+          "description": "A simple and elegant live chat software (using Rails 6.1).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T14:20:06Z",
+            "owner": "chatwoot",
+            "repo": "chatwoot",
+            "stars": 35796
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitlabhq",
+          "description": "A code collaboration app (using Rails 6.1).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T12:08:25Z",
+            "owner": "gitlabhq",
+            "repo": "gitlabhq",
+            "stars": 24533
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "forem",
+          "description": "Social platform app specialized for web development (using Rails 7.0). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T13:00:54Z",
+            "owner": "forem",
+            "repo": "forem",
+            "stars": 22760
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docuseal",
+          "description": "A platform to fill and sign digital documents (using Rails 7.0). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-11T15:09:36Z",
+            "owner": "docusealco",
+            "repo": "docuseal",
+            "stars": 18252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "postal",
+          "description": "A mail delivery platform (using Rails 5.2).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-05T02:17:11Z",
+            "owner": "postalserver",
+            "repo": "postal",
+            "stars": 16728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openproject",
+          "description": "A project management app (using Rails 7.0). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T14:17:18Z",
+            "owner": "opf",
+            "repo": "openproject",
+            "stars": 15838
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "diaspora",
+          "description": "A social networking app - using Rails 6.1 - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-28T20:36:26Z",
+            "owner": "diaspora",
+            "repo": "diaspora",
+            "stars": 13658
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "canvas-lms",
+          "description": "A learning management app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-04-30T14:52:10Z",
+            "owner": "instructure",
+            "repo": "canvas-lms",
+            "stars": 6770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lobsters",
+          "description": "A link aggregation app (using Rails 7.0). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-03T09:22:24Z",
+            "owner": "lobsters",
+            "repo": "lobsters",
+            "stars": 4812
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theodinproject",
+          "description": "A teaching & learning platform (using Rails 6.1). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T15:44:04Z",
+            "owner": "TheOdinProject",
+            "repo": "theodinproject",
+            "stars": 4570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blackCandy",
+          "description": "A music streaming app (using Rails 7.0).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T13:24:47Z",
+            "owner": "blackcandy-org",
+            "repo": "blackcandy",
+            "stars": 4375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "feedbin",
+          "description": "A RSS reader app (using Rails 7.0). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T08:29:36Z",
+            "owner": "feedbin",
+            "repo": "feedbin",
+            "stars": 3771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fat-free-crm",
+          "description": "An open source, Ruby on Rails customer relationship management platform (CRM) (using Rails 6.1). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-09T06:29:31Z",
+            "owner": "fatfreecrm",
+            "repo": "fat_free_crm",
+            "stars": 3626
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "peatio",
+          "description": "A crypto currency exchange app (using Rails 4.0).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-09T04:10:29Z",
+            "owner": "hpyhacking",
+            "repo": "peatio",
+            "stars": 3599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "selfstarter",
+          "description": "A crowdfunding app (using Rails 4.0).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2022-10-27T17:12:44Z",
+            "owner": "apigy",
+            "repo": "selfstarter",
+            "stars": 3153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "passwordPusher",
+          "description": "A password delivery app (using Rails 6.1). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T12:45:32Z",
+            "owner": "pglombardo",
+            "repo": "PasswordPusher",
+            "stars": 3148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openstreetmap-website",
+          "description": "A map viewing app (using Rails 7.0). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T12:24:25Z",
+            "owner": "openstreetmap",
+            "repo": "openstreetmap-website",
+            "stars": 2801
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "danbooru",
+          "description": "A taggable image board app (using Rails 7.0).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-06T13:53:02Z",
+            "owner": "danbooru",
+            "repo": "danbooru",
+            "stars": 2779
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "loomio",
+          "description": "A collaborative decision-making app (using Rails 6.1). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T10:01:35Z",
+            "owner": "loomio",
+            "repo": "loomio",
+            "stars": 2589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "helpy",
+          "description": "A customer support app (using Rails 4.2). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-03-08T21:42:10Z",
+            "owner": "helpyio",
+            "repo": "helpy",
+            "stars": 2479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sharetribe",
+          "description": "A peer-to-peer marketplace platform (using Rails 5.2). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-05-11T13:38:51Z",
+            "owner": "sharetribe",
+            "repo": "sharetribe",
+            "stars": 2447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redmine",
+          "description": "A project management app (using Rails 6.1). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2022-04-10T16:51:42Z",
+            "owner": "edavis10",
+            "repo": "redmine",
+            "stars": 2437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rubygems.org",
+          "description": "A gem hosting platform (using Rails 7.0). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T11:13:03Z",
+            "owner": "rubygems",
+            "repo": "rubygems.org",
+            "stars": 2437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "otwarchive",
+          "description": "A social networking app for fans - using Rails 6.0 - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T02:35:29Z",
+            "owner": "otwcode",
+            "repo": "otwarchive",
+            "stars": 2174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kitsu-tools",
+          "description": "An anime discovery platform (using Rails 4.1).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-12-16T09:01:03Z",
+            "owner": "hummingbird-me",
+            "repo": "kitsu-tools",
+            "stars": 2147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ciao",
+          "description": "A URL status checking app (using Rails 6.0).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-16T17:12:32Z",
+            "owner": "brotandgames",
+            "repo": "ciao",
+            "stars": 1972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "publify",
+          "description": "A blogging app (using Rails 6.1).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Less",
+            "last_commit": "2026-08-10T09:40:11Z",
+            "owner": "publify",
+            "repo": "publify",
+            "stars": 1858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "teambox",
+          "description": "A collaboration app - using Rails 3.0 - :earth_africa: (archived).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2013-05-06T10:07:34Z",
+            "owner": "redbooth",
+            "repo": "teambox",
+            "stars": 1838
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openFarm",
+          "description": "A database for information about farming and gardening (using Rails 5.2). -",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2025-04-22T04:31:34Z",
+            "owner": "openfarmcc",
+            "repo": "OpenFarm",
+            "stars": 1730
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "multiwoven",
+          "description": "The open-source reverse ETL, data activation platform for modern data teams. (using Rails 7.1.1) - 🌍",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T00:26:22Z",
+            "owner": "Multiwoven",
+            "repo": "multiwoven",
+            "stars": 1669
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "catarse",
+          "description": "A crowdfunding platform for creative projects (using Rails 4.2). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2023-03-28T13:42:31Z",
+            "owner": "catarse",
+            "repo": "catarse",
+            "stars": 1639
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "codetriage",
+          "description": "An open source project finder app (using Rails 7.0). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-02T05:03:24Z",
+            "owner": "codetriage",
+            "repo": "CodeTriage",
+            "stars": 1462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "onebody",
+          "description": "A social networking app for churches - using Rails 5.1",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2021-01-29T17:15:05Z",
+            "owner": "seven1m",
+            "repo": "onebody",
+            "stars": 1388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "brimir",
+          "description": "An email helpdesk app (using Rails 5.2). (archived).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2018-12-22T15:01:41Z",
+            "owner": "ivaldi",
+            "repo": "brimir",
+            "stars": 1367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tracks",
+          "description": "A goal tracking app (using Rails 6.0). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-03T15:42:54Z",
+            "owner": "TracksApp",
+            "repo": "tracks",
+            "stars": 1239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opensourcefriday",
+          "description": "A project contribution tracking app (using Rails 6.0). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-10T11:24:46Z",
+            "owner": "github",
+            "repo": "opensourcefriday",
+            "stars": 1231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hours",
+          "description": "A time tracking app (using Rails 4.2).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-01-20T05:06:04Z",
+            "owner": "DefactoSoftware",
+            "repo": "Hours",
+            "stars": 1035
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whitehall",
+          "description": "A content management app used by UK government - using Rails 7.0 Back to top",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T14:14:35Z",
+            "owner": "alphagov",
+            "repo": "whitehall",
+            "stars": 1021
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "activeWorkflow",
+          "description": "An intelligent process and workflow automation platform based on software agents (using Rails 6.0).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-04-03T09:13:22Z",
+            "owner": "automaticmode",
+            "repo": "active_workflow",
+            "stars": 865
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coderwall (legacy)",
+          "description": "A social network app for software engineers - using Rails 3.2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2016-02-08T15:29:38Z",
+            "owner": "coderwall",
+            "repo": "coderwall-legacy",
+            "stars": 856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FAE",
+          "description": "A modern CMS developed by FINE (using Rails 5.2)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-11T17:03:56Z",
+            "owner": "wearefine",
+            "repo": "fae",
+            "stars": 852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "inaturalist",
+          "description": "A community app for nature and related stuff (using Rails 6.1). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T13:56:01Z",
+            "owner": "inaturalist",
+            "repo": "inaturalist",
+            "stars": 842
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "autolab",
+          "description": "A course management app (using Rails 6.0). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-27T06:29:32Z",
+            "owner": "autolab",
+            "repo": "Autolab",
+            "stars": 810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "adopt-a-hydrant",
+          "description": "A civic infrastructure detection app (using Rails 4.2).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-09-26T05:22:24Z",
+            "owner": "codeforamerica",
+            "repo": "adopt-a-hydrant",
+            "stars": 791
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lavish",
+          "description": "A color scheme generator (using Rails 4.2).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-12-13T20:26:13Z",
+            "owner": "mquan",
+            "repo": "lavish",
+            "stars": 689
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hackershare",
+          "description": "Social bookmarks website for hackers (using Rails 7.0). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-06-18T15:21:00Z",
+            "owner": "hackershare",
+            "repo": "hackershare",
+            "stars": 661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kanban",
+          "description": "A Trello clone (using Rails 4.2).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2015-10-23T03:19:31Z",
+            "owner": "hauntedhost",
+            "repo": "kanban",
+            "stars": 637
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crowdtiltOpen",
+          "description": "A crowdfunding platform - using Rails 6.1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2016-08-10T16:52:30Z",
+            "owner": "Crowdtilt",
+            "repo": "CrowdtiltOpen",
+            "stars": 597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "human-essentials",
+          "description": "An inventory management system for essentials banks (using Rails 7.0). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-02T14:43:45Z",
+            "owner": "rubyforgood",
+            "repo": "human-essentials",
+            "stars": 583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ekylibre",
+          "description": "A farm management app (using Rails 5.0).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-26T20:05:33Z",
+            "owner": "ekylibre",
+            "repo": "ekylibre",
+            "stars": 485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hitobito",
+          "description": "An event organization app (using Rails 6.1). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T14:18:33Z",
+            "owner": "hitobito",
+            "repo": "hitobito",
+            "stars": 475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "growstuff",
+          "description": "A data management app for food gardeners (using Rails 6.1). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T10:14:19Z",
+            "owner": "Growstuff",
+            "repo": "growstuff",
+            "stars": 473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "calagator",
+          "description": "A community calendaring app (using Rails 5.2).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-02-24T01:29:48Z",
+            "owner": "calagator",
+            "repo": "calagator",
+            "stars": 447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "campo",
+          "description": "A forum app (using Rails 4.1).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2015-07-15T05:07:35Z",
+            "owner": "chloerei",
+            "repo": "campo",
+            "stars": 436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alaveteli",
+          "description": "A platform for making public freedom of information requests - using Rails 7.0 - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T13:58:10Z",
+            "owner": "mysociety",
+            "repo": "alaveteli",
+            "stars": 419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alonetone",
+          "description": "A music hosting, management & distribution app (using Rails 7.0). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-05T18:21:43Z",
+            "owner": "sudara",
+            "repo": "alonetone",
+            "stars": 381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "socify",
+          "description": "A social networking platform - using Rails 5.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2019-01-27T03:24:12Z",
+            "owner": "scaffeinate",
+            "repo": "socify",
+            "stars": 375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "api.rss",
+          "description": "A RSS feed conversion (to API) app (using Rails 6.0).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2021-05-20T03:06:56Z",
+            "owner": "davidesantangelo",
+            "repo": "api.rss",
+            "stars": 347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bike_index",
+          "description": "A bike registry tracking app (using Rails 6.0). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T11:52:49Z",
+            "owner": "bikeindex",
+            "repo": "bike_index",
+            "stars": 308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "retrospring",
+          "description": "A social network following the Q/A (question and answer) principle - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2025-08-31T21:23:58Z",
+            "owner": "Retrospring",
+            "repo": "retrospring",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rapidFTR",
+          "description": "An information provider app for aid workers (using Rails 4.0).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2016-12-01T08:28:42Z",
+            "owner": "rapidftr",
+            "repo": "RapidFTR",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "obtvse2",
+          "description": "A blogging app (using Rails 4.0).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2018-05-13T23:37:23Z",
+            "owner": "natew",
+            "repo": "obtvse2",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "commudle",
+          "description": "A community management app (using Rails 5.2).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2025-01-29T03:55:46Z",
+            "owner": "commudle",
+            "repo": "commudle",
+            "stars": 246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coderwall (next)",
+          "description": "A social network app for software engineers - using Rails 5.0",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2025-12-05T09:43:50Z",
+            "owner": "coderwall",
+            "repo": "coderwall-next",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "expertiza",
+          "description": "A learning material sharing app (using Rails 5.1).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-05-10T03:03:40Z",
+            "owner": "expertiza",
+            "repo": "expertiza",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fromthepage",
+          "description": "A wiki-like app for crowdsourcing transcription of handwritten documents (using Rails 6.0). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T17:58:53Z",
+            "owner": "benwbrum",
+            "repo": "fromthepage",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stackneveroverflow",
+          "description": "A question asking & answering platform - using Rails 5.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-01-19T04:08:27Z",
+            "owner": "liaoziyang",
+            "repo": "stackneveroverflow",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coursemology2",
+          "description": "Learning platform app (using Rails 6.0).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:07:32Z",
+            "owner": "Coursemology",
+            "repo": "coursemology2",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vglist",
+          "description": "A video game library tracking web app (using Rails 7.0). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-11T12:02:44Z",
+            "owner": "connorshea",
+            "repo": "vglist",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trado",
+          "description": "An e-commerce platform (using Rails 4.2).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-07-18T07:38:33Z",
+            "owner": "Jellyfishboy",
+            "repo": "trado",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crowdAI",
+          "description": "An app for data science challenges (using Rails 5.2). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-19T10:59:04Z",
+            "owner": "crowdAI",
+            "repo": "crowdai",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "websiteOne",
+          "description": "A project tracking app (using Rails 6.1).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-04-27T18:56:32Z",
+            "owner": "AgileVentures",
+            "repo": "WebsiteOne",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "encrypt.to",
+          "description": "A messaging app with encryption support (using Rails 4.2).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2018-07-11T13:14:45Z",
+            "owner": "encrypt-to",
+            "repo": "encrypt.to",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "splits-io",
+          "description": "A speedrun data store and analysis engine. (using Rails 6.0). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2025-04-06T21:15:13Z",
+            "owner": "glacials",
+            "repo": "splits-io",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reservations",
+          "description": "An inventory management app (using Rails 6.0). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2020-07-23T19:49:48Z",
+            "owner": "YaleSTC",
+            "repo": "reservations",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quant",
+          "description": "A personal health tracker (using Rails 4.1).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2015-06-19T03:52:14Z",
+            "owner": "jdjkelly",
+            "repo": "quant",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "popHealth",
+          "description": "A population health reporting app (using Rails 4.1).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-01-11T19:33:17Z",
+            "owner": "pophealth",
+            "repo": "popHealth",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "beatstream",
+          "description": "A music streaming app - using Rails 3.2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T01:07:09Z",
+            "owner": "Darep",
+            "repo": "Beatstream",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "planningalerts-app",
+          "description": "A planned applications tracking app (using Rails 6.1). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T13:28:33Z",
+            "owner": "openaustralia",
+            "repo": "planningalerts",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "intercityup.com",
+          "description": "A control panel app for app deployment (using Rails 4.1).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2019-04-28T19:16:54Z",
+            "owner": "intercity",
+            "repo": "intercity-next",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fairmondo",
+          "description": "A marketplace app (using Rails 5.1). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2022-06-24T22:42:15Z",
+            "owner": "fairmondo",
+            "repo": "fairmondo",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asakusaSatellite",
+          "description": "A realtime chat application for developers (using Rails 6.0). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2022-10-20T02:34:09Z",
+            "owner": "codefirst",
+            "repo": "AsakusaSatellite",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "somleng",
+          "description": "An Open Source Communications-Platform-as-a-Service (CPaaS) and Telco-as-a-service (TaaS). (using Rails 7.1). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-11T23:48:02Z",
+            "owner": "somleng",
+            "repo": "somleng",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dgidb",
+          "description": "A drug gene interaction platform - using Rails 6.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-08-12T18:05:17Z",
+            "owner": "dgidb",
+            "repo": "dgidb",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dcaf_case_management",
+          "description": "A case management app (using Rails 7.0).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-27T16:26:21Z",
+            "owner": "DARIAEngineering",
+            "repo": "dcaf_case_management",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "contribulator",
+          "description": "An open source project finder app - using Rails 5.1",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2021-12-11T16:20:03Z",
+            "owner": "24pullrequests",
+            "repo": "contribulator",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "follow-all",
+          "description": "A Twitter account management app (using Rails 4.2). (archived).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2019-07-09T18:45:28Z",
+            "owner": "codeforamerica",
+            "repo": "follow-all",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "airCasting",
+          "description": "A platform for recording, mapping, and sharing health and environmental data using your smartphone (using Rails 6.1). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T09:11:47Z",
+            "owner": "HabitatMap",
+            "repo": "AirCasting",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eol",
+          "description": "An encyclopedia app - using Rails 3.2 - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2019-08-29T18:06:58Z",
+            "owner": "EOL",
+            "repo": "deprecated_eol",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rentmybikes-rails",
+          "description": "A marketplace app - (using Rails 4.0).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-09-04T15:41:05Z",
+            "owner": "balanced",
+            "repo": "rentmybikes-rails",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sanataro",
+          "description": "An account tracker (using Rails 4.2).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-08-07T06:26:24Z",
+            "owner": "kaznum",
+            "repo": "sanataro",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hashrobot",
+          "description": "A social media management app (using Rails 4.2).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2018-02-15T05:22:00Z",
+            "owner": "rysmith",
+            "repo": "hashrobot",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opencongress",
+          "description": "A website for getting information about US Congress - using Rails 3.0 (archived).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2016-03-08T22:47:28Z",
+            "owner": "sunlightlabs",
+            "repo": "opencongress",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "freeATS",
+          "description": "An open source applicant tracking system with self-hosting capabilities (using Rails 7.1). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-06-09T13:34:40Z",
+            "owner": "freeats",
+            "repo": "freeats",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spokenvote",
+          "description": "A social voting app (using Rails 4.2).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2022-12-14T08:26:09Z",
+            "owner": "Spokenvote",
+            "repo": "spokenvote",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "racing_on_rails",
+          "description": "A bike racing organization app (using Rails 6.1).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-15T04:46:19Z",
+            "owner": "scottwillson",
+            "repo": "racing_on_rails",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Listopia",
+          "description": "A modern list / task management app (using Rails 8). - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-31T04:42:14Z",
+            "owner": "spaquet",
+            "repo": "listopia",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "askaway",
+          "description": "Question & answer app specialized in politics (using Rails 4.1).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-08-02T03:34:54Z",
+            "owner": "askaway",
+            "repo": "askaway",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cw-ovp",
+          "description": "video packaging to *.m3u8 for HLS (HTTP Live Streaming) with FFMPEG on website (using Rails 6.0).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-03-06T03:38:48Z",
+            "owner": "x1wins",
+            "repo": "CW-OVP",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coRM",
+          "description": "A customer relationship management app - using Rails 3.2 - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2016-11-28T17:09:40Z",
+            "owner": "SIGIRE",
+            "repo": "CoRM",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "obl.ong",
+          "description": "A multi-tenant subdomain control panel (using Rails 7.1) - 🌍",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2024-05-02T21:21:41Z",
+            "owner": "obl-ong",
+            "repo": "panel",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "graff_mags",
+          "description": "A graffiti magazine sharing app (using Rails 4.1).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2014-09-19T12:28:41Z",
+            "owner": "dankleiman",
+            "repo": "graff_mags",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "podiscover",
+          "description": "An open source social media platform to discover new podcasts. (using Rails 7.0) - :earth_africa:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2023-12-04T15:00:56Z",
+            "owner": "enderahmetyurt",
+            "repo": "podiscover",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scholarsphere",
+          "description": "A digital assets management app - using Rails 6.1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-11T19:40:08Z",
+            "owner": "psu-libraries",
+            "repo": "scholarsphere",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chronlife",
+          "description": "A social platform for people with chronic diseases (using Rails 7.0).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-01-17T14:44:05Z",
+            "owner": "maciejb2k",
+            "repo": "chronlife",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "granny",
+          "description": "An OpenAI chat app (Rails 7.0)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-04-25T11:59:36Z",
+            "owner": "roberthopman",
+            "repo": "granny",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lifeToRemind",
+          "description": "A career planning app (using Rails 5.2).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2023-01-19T15:13:15Z",
+            "owner": "eduqg",
+            "repo": "LifeToRemind",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gwirian",
+          "description": "A modern BDD feature and scenario management (using Rails 8.0).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-05-25T03:57:28Z",
+            "owner": "TheAcmada",
+            "repo": "gwirian",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "covoiturage-libre",
+          "description": "A carpooling app - using Rails 5.0 (archived).",
+          "children": []
+        }
+      ],
+      "title": "Open Source Rails Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "suspenders",
+          "description": "A Rails template with our standard defaults, ready to deploy to Heroku.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-19T10:15:09Z",
+            "owner": "thoughtbot",
+            "repo": "suspenders",
+            "stars": 4046
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jumpstart(excid3)",
+          "description": "Easily jumpstart a new Rails application with a bunch of great features by default.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2025-02-07T19:11:48Z",
+            "owner": "excid3",
+            "repo": "gorails-app-template",
+            "stars": 1200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docker-rails",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2024-10-29T04:23:56Z",
+            "owner": "ledermann",
+            "repo": "docker-rails",
+            "stars": 1101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rails-template(mattbrictson)",
+          "description": "Application template for Rails 6 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2023-12-18T20:07:18Z",
+            "owner": "mattbrictson",
+            "repo": "rails-template",
+            "stars": 1071
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rails-templates(lewagon)",
+          "description": "Jump start your Rails development with Le Wagon best practices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-04-07T08:03:26Z",
+            "owner": "lewagon",
+            "repo": "rails-templates",
+            "stars": 681
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rails_api_base",
+          "description": "Rails 6 boilerplate project for JSON RESTful APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T16:06:52Z",
+            "owner": "rootstrap",
+            "repo": "rails_api_base",
+            "stars": 632
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kickoff_tailwind",
+          "description": "A rapid Rails 6 application template for personal use bundled with Tailwind CSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-12-13T08:48:09Z",
+            "owner": "justalever",
+            "repo": "kickoff_tailwind",
+            "stars": 574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rails-template(ackama)",
+          "description": "Application template for Rails 6.1 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-10T09:28:55Z",
+            "owner": "ackama",
+            "repo": "rails-template",
+            "stars": 382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rails-template(dao42)",
+          "description": "A best & newest & fastest rails 6.x template for senior rails developer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-06-29T14:52:30Z",
+            "owner": "dao42",
+            "repo": "rails-template",
+            "stars": 378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rails-devise-graphql",
+          "description": "A Rails 6 boilerplate to create your next Saas product. Preloaded with graphQL, devise, JWT, CanCanCan, RailsAdmin, Rubocop, Rspec, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-01-19T11:40:57Z",
+            "owner": "zauberware",
+            "repo": "rails-devise-graphql",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vuejs-rails-starterkit",
+          "description": "Vue.js + Rails Starting Kit GitHub Template to develop Hybrid Mobile Application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-01-19T11:16:15Z",
+            "owner": "jetthoughts",
+            "repo": "vuejs-rails-starterkit",
+            "stars": 213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rails_new",
+          "description": "A thoughtfully designed template for building modern Rails apps. Get started in minutes instead of hours.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-07-31T08:32:45Z",
+            "owner": "lockstep",
+            "repo": "rails_new",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docker-Rails-Template",
+          "description": "A freshly updated version of \"rails new\", preconfigured to be run with Docker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2022-02-08T21:29:13Z",
+            "owner": "Ruby-Starter-Kits",
+            "repo": "Docker-Rails-Template",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rails-templates(nimblehq)",
+          "description": "Our optimized Rails templates used in our projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-10T22:48:10Z",
+            "owner": "nimblehq",
+            "repo": "rails-templates",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rails-template(astrocket)",
+          "description": "Template for Rails 6.0 + Kubernetes + Webpacker + Stimulus + TailwindCSS + Let's Encrypt.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T09:54:20Z",
+            "owner": "astrocket",
+            "repo": "rails-template",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rails_hotwire_base",
+          "description": "Rails 6 boilerplate project with Hotwire for full-stack applications with a modern SPA-like experience.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2024-08-15T23:04:25Z",
+            "owner": "rootstrap",
+            "repo": "rails_hotwire_base",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rails-template(TristanToye)",
+          "description": "MVP Ready Rails - A Template for Your Next Rails App",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-03-08T20:09:47Z",
+            "owner": "TristanToye",
+            "repo": "rails-template",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "default_rails_template",
+          "description": "Default template for generating new Rails applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-11-24T13:18:56Z",
+            "owner": "infinum",
+            "repo": "default_rails_template",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rails-vue-template",
+          "description": "An example of how to use VueJS as a single page application inside Rails using Webpacker.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2023-01-19T14:27:48Z",
+            "owner": "scottrobertson",
+            "repo": "rails-vue-template",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jumpstart(thomasvanholder)",
+          "description": "Template for set-up of Rails 6, Tailwind 2.0 and Devise.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2020-12-17T09:38:54Z",
+            "owner": "thomasvanholder",
+            "repo": "jumpstart",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nativeapptemplateapi",
+          "description": "A Rails 8.1 multi-tenant API backend for native iOS (Swift/SwiftUI) and Android (Kotlin/Compose) apps. Uses acts_as_tenant, devise_token_auth, Pundit, Solid Queue/Cache/Cable, and PostgreSQL (using Rails 8.1).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-07T05:14:29Z",
+            "owner": "nativeapptemplate",
+            "repo": "nativeapptemplateapi",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prism_demo",
+          "description": "Sample app for testing and previewing the Prism ActiveAdmin theme; a minimal Rails app pre-wired with active_admin_prism and seeded with dummy data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-09T21:34:14Z",
+            "owner": "ramlaxmanyadav",
+            "repo": "prism_demo",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Starters/Boilerplates"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Other Rails Tools"
+    },
+    {
+      "description": "Back to top",
+      "items": [],
+      "title": "Generators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Optic",
+          "description": "Optic automatically documents and tests your APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-01-08T21:11:15Z",
+            "owner": "opticdev",
+            "repo": "optic",
+            "stars": 1535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rails-dashboard",
+          "description": "A dev-tool to improve your rails log.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-11T07:29:46Z",
+            "owner": "y-takey",
+            "repo": "rails-dashboard",
+            "stars": 148
+          }
+        }
+      ],
+      "title": "DevTools"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T14:22:01.345Z",
+    "original_repository": "gramantin/awesome-rails",
+    "original_repository_sha": "dc4ee0b4befeee79972988adbab949afaa8811c0",
+    "enhanced_repository": "enhansome/enhansome-rails",
+    "enhanced_repository_description": null,
+    "title": "Awesome Rails with stars"
+  }
+}
