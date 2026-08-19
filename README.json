@@ -1,17 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Resources"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "External Resources"
-    },
-    {
-      "description": "",
+      "description": "Note: Rails versions of these apps are valid as the date of latest commit. They are defined in their Gemfile and/or Gemfile.lock and they might be outdated. If you find it outdated, don't forget to notfiy us by opening a pull request.",
       "items": [
         {
           "node_type": "item",
@@ -20,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 737898780,
             "language": "Ruby",
             "last_commit": "2025-07-24T22:20:44Z",
             "owner": "maybe-finance",
@@ -34,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52281283,
             "language": "Ruby",
-            "last_commit": "2026-08-18T13:35:46Z",
+            "last_commit": "2026-08-19T12:40:58Z",
             "owner": "mastodon",
             "repo": "mastodon",
-            "stars": 50216
+            "stars": 50220
           }
         },
         {
@@ -48,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7569578,
             "language": "Ruby",
-            "last_commit": "2026-08-18T13:41:15Z",
+            "last_commit": "2026-08-19T12:24:56Z",
             "owner": "discourse",
             "repo": "discourse",
-            "stars": 47668
+            "stars": 47674
           }
         },
         {
@@ -62,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 202291859,
             "language": "Ruby",
-            "last_commit": "2026-08-18T13:31:24Z",
+            "last_commit": "2026-08-19T12:34:58Z",
             "owner": "chatwoot",
             "repo": "chatwoot",
-            "stars": 35939
+            "stars": 35978
           }
         },
         {
@@ -76,8 +70,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2500088,
             "language": "Ruby",
-            "last_commit": "2026-08-18T12:08:14Z",
+            "last_commit": "2026-08-19T12:18:32Z",
             "owner": "gitlabhq",
             "repo": "gitlabhq",
             "stars": 24532
@@ -90,8 +85,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73648678,
             "language": "Ruby",
-            "last_commit": "2026-08-18T02:38:33Z",
+            "last_commit": "2026-08-19T12:41:12Z",
             "owner": "forem",
             "repo": "forem",
             "stars": 22769
@@ -104,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 661850205,
             "language": "Ruby",
             "last_commit": "2026-08-17T10:25:54Z",
             "owner": "docusealco",
             "repo": "docuseal",
-            "stars": 18279
+            "stars": 18301
           }
         },
         {
@@ -118,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88740103,
             "language": "Ruby",
             "last_commit": "2026-08-18T02:35:19Z",
             "owner": "postalserver",
@@ -132,11 +130,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6899875,
             "language": "Ruby",
-            "last_commit": "2026-08-18T13:40:56Z",
+            "last_commit": "2026-08-19T12:40:46Z",
             "owner": "opf",
             "repo": "openproject",
-            "stars": 15874
+            "stars": 15887
           }
         },
         {
@@ -146,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 911765,
             "language": "Ruby",
             "last_commit": "2026-07-28T20:36:26Z",
             "owner": "diaspora",
@@ -160,20 +160,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1314319,
             "language": "Ruby",
             "last_commit": "2026-04-30T14:52:10Z",
             "owner": "instructure",
             "repo": "canvas-lms",
-            "stars": 6778
+            "stars": 6780
           }
         },
         {
           "node_type": "item",
           "title": "lobsters",
-          "description": "A link aggregation app (using Rails 7.0). - :earth_africa:",
+          "description": "A link aggregation app (using Rails 8.1). - :earth_africa:",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5543112,
             "language": "Ruby",
             "last_commit": "2026-08-17T21:02:33Z",
             "owner": "lobsters",
@@ -188,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10088951,
             "language": "Ruby",
             "last_commit": "2026-08-12T15:44:04Z",
             "owner": "TheOdinProject",
@@ -202,11 +205,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120575426,
             "language": "Ruby",
             "last_commit": "2026-08-13T13:24:47Z",
             "owner": "blackcandy-org",
             "repo": "blackcandy",
-            "stars": 4399
+            "stars": 4400
           }
         },
         {
@@ -216,11 +220,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12335495,
             "language": "Ruby",
-            "last_commit": "2026-08-16T16:19:31Z",
+            "last_commit": "2026-08-19T11:26:25Z",
             "owner": "feedbin",
             "repo": "feedbin",
-            "stars": 3775
+            "stars": 3778
           }
         },
         {
@@ -230,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80571,
             "language": "Ruby",
             "last_commit": "2026-08-17T12:04:51Z",
             "owner": "fatfreecrm",
@@ -244,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16774748,
             "language": "Ruby",
             "last_commit": "2026-07-09T04:10:29Z",
             "owner": "hpyhacking",
@@ -258,11 +265,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3064003,
             "language": "Ruby",
-            "last_commit": "2026-08-18T11:48:06Z",
+            "last_commit": "2026-08-19T10:57:21Z",
             "owner": "pglombardo",
             "repo": "PasswordPusher",
-            "stars": 3156
+            "stars": 3157
           }
         },
         {
@@ -272,11 +280,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6177949,
             "language": "Ruby",
             "last_commit": "2022-10-27T17:12:44Z",
             "owner": "apigy",
             "repo": "selfstarter",
-            "stars": 3154
+            "stars": 3155
           }
         },
         {
@@ -286,11 +295,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 641512,
             "language": "Ruby",
-            "last_commit": "2026-08-17T17:48:04Z",
+            "last_commit": "2026-08-19T11:22:35Z",
             "owner": "openstreetmap",
             "repo": "openstreetmap-website",
-            "stars": 2809
+            "stars": 2810
           }
         },
         {
@@ -300,11 +310,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 502760,
             "language": "Ruby",
-            "last_commit": "2026-08-18T08:39:33Z",
+            "last_commit": "2026-08-19T10:15:20Z",
             "owner": "danbooru",
             "repo": "danbooru",
-            "stars": 2783
+            "stars": 2785
           }
         },
         {
@@ -314,8 +325,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2731301,
             "language": "Ruby",
-            "last_commit": "2026-08-18T01:55:42Z",
+            "last_commit": "2026-08-19T00:13:09Z",
             "owner": "loomio",
             "repo": "loomio",
             "stars": 2590
@@ -328,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33225130,
             "language": "Ruby",
             "last_commit": "2023-03-08T21:42:10Z",
             "owner": "helpyio",
@@ -342,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4447023,
             "language": "Ruby",
             "last_commit": "2026-05-11T13:38:51Z",
             "owner": "sharetribe",
@@ -356,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21692,
             "language": "Ruby",
             "last_commit": "2022-04-10T16:51:42Z",
             "owner": "edavis10",
@@ -370,8 +385,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117646,
             "language": "Ruby",
-            "last_commit": "2026-08-18T05:12:42Z",
+            "last_commit": "2026-08-19T07:01:27Z",
             "owner": "rubygems",
             "repo": "rubygems.org",
             "stars": 2438
@@ -384,11 +400,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1338040,
             "language": "Ruby",
             "last_commit": "2026-08-14T19:38:06Z",
             "owner": "otwcode",
             "repo": "otwarchive",
-            "stars": 2183
+            "stars": 2184
           }
         },
         {
@@ -398,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20206508,
             "language": "HTML",
             "last_commit": "2023-12-16T09:01:03Z",
             "owner": "hummingbird-me",
@@ -412,11 +430,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197053097,
             "language": "Ruby",
             "last_commit": "2026-07-16T17:12:32Z",
             "owner": "brotandgames",
             "repo": "ciao",
-            "stars": 1976
+            "stars": 1977
           }
         },
         {
@@ -426,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66801,
             "language": "Less",
             "last_commit": "2026-08-17T09:48:29Z",
             "owner": "publify",
@@ -440,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 291056,
             "language": "Ruby",
             "last_commit": "2013-05-06T10:07:34Z",
             "owner": "redbooth",
@@ -454,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 13895958,
             "language": "Ruby",
             "last_commit": "2025-04-22T04:31:34Z",
             "owner": "openfarmcc",
@@ -468,11 +490,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 707752626,
             "language": "Ruby",
             "last_commit": "2026-08-18T10:58:13Z",
             "owner": "Multiwoven",
             "repo": "multiwoven",
-            "stars": 1670
+            "stars": 1671
           }
         },
         {
@@ -482,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1071489,
             "language": "Ruby",
             "last_commit": "2023-03-28T13:42:31Z",
             "owner": "catarse",
@@ -496,11 +520,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5130966,
             "language": "Ruby",
             "last_commit": "2026-08-02T05:03:24Z",
             "owner": "codetriage",
             "repo": "CodeTriage",
-            "stars": 1463
+            "stars": 1464
           }
         },
         {
@@ -510,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1032,
             "language": "Ruby",
             "last_commit": "2021-01-29T17:15:05Z",
             "owner": "seven1m",
@@ -524,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 6827131,
             "language": "Ruby",
             "last_commit": "2018-12-22T15:01:41Z",
             "owner": "ivaldi",
@@ -538,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2057515,
             "language": "Ruby",
             "last_commit": "2026-08-03T15:42:54Z",
             "owner": "TracksApp",
@@ -552,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77702046,
             "language": "HTML",
             "last_commit": "2026-08-10T11:24:46Z",
             "owner": "github",
@@ -566,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17153103,
             "language": "Ruby",
             "last_commit": "2023-01-20T05:06:04Z",
             "owner": "DefactoSoftware",
@@ -580,11 +610,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2416064,
             "language": "Ruby",
-            "last_commit": "2026-08-18T12:52:54Z",
+            "last_commit": "2026-08-19T10:03:46Z",
             "owner": "alphagov",
             "repo": "whitehall",
-            "stars": 1022
+            "stars": 1023
           }
         },
         {
@@ -594,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185592724,
             "language": "Ruby",
             "last_commit": "2023-04-03T09:13:22Z",
             "owner": "automaticmode",
@@ -608,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16923370,
             "language": "Ruby",
             "last_commit": "2016-02-08T15:29:38Z",
             "owner": "coderwall",
@@ -622,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32231726,
             "language": "Ruby",
             "last_commit": "2026-08-11T17:03:56Z",
             "owner": "wearefine",
@@ -636,8 +670,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 297058,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T01:39:46Z",
+            "last_commit": "2026-08-18T23:25:44Z",
             "owner": "inaturalist",
             "repo": "inaturalist",
             "stars": 844
@@ -650,8 +685,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25742807,
             "language": "Ruby",
-            "last_commit": "2026-06-27T06:29:32Z",
+            "last_commit": "2026-08-18T23:22:02Z",
             "owner": "autolab",
             "repo": "Autolab",
             "stars": 810
@@ -664,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1366239,
             "language": "Ruby",
             "last_commit": "2023-09-26T05:22:24Z",
             "owner": "codeforamerica",
@@ -678,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3450268,
             "language": "CSS",
             "last_commit": "2022-12-13T20:26:13Z",
             "owner": "mquan",
@@ -692,6 +730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 282779535,
             "language": "HTML",
             "last_commit": "2024-06-18T15:21:00Z",
             "owner": "hackershare",
@@ -706,6 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11090284,
             "language": "Ruby",
             "last_commit": "2015-10-23T03:19:31Z",
             "owner": "hauntedhost",
@@ -720,6 +760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10775769,
             "language": "Ruby",
             "last_commit": "2016-08-10T16:52:30Z",
             "owner": "Crowdtilt",
@@ -734,8 +775,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89035461,
             "language": "Ruby",
-            "last_commit": "2026-08-17T18:17:06Z",
+            "last_commit": "2026-08-18T23:04:05Z",
             "owner": "rubyforgood",
             "repo": "human-essentials",
             "stars": 583
@@ -748,6 +790,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2196186,
             "language": "Ruby",
             "last_commit": "2026-07-26T20:05:33Z",
             "owner": "ekylibre",
@@ -762,8 +805,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11764575,
             "language": "Ruby",
-            "last_commit": "2026-08-18T12:26:31Z",
+            "last_commit": "2026-08-19T12:00:33Z",
             "owner": "hitobito",
             "repo": "hitobito",
             "stars": 476
@@ -776,8 +820,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5337437,
             "language": "Ruby",
-            "last_commit": "2026-08-18T07:06:21Z",
+            "last_commit": "2026-08-19T10:43:29Z",
             "owner": "Growstuff",
             "repo": "growstuff",
             "stars": 473
@@ -790,6 +835,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104937,
             "language": "Ruby",
             "last_commit": "2026-02-24T01:29:48Z",
             "owner": "calagator",
@@ -804,6 +850,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15603229,
             "language": "Ruby",
             "last_commit": "2015-07-15T05:07:35Z",
             "owner": "chloerei",
@@ -818,8 +865,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1125389,
             "language": "Ruby",
-            "last_commit": "2026-08-18T11:32:39Z",
+            "last_commit": "2026-08-19T09:40:08Z",
             "owner": "mysociety",
             "repo": "alaveteli",
             "stars": 419
@@ -832,6 +880,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3456,
             "language": "Ruby",
             "last_commit": "2026-08-05T18:21:43Z",
             "owner": "sudara",
@@ -846,6 +895,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39550626,
             "language": "Ruby",
             "last_commit": "2019-01-27T03:24:12Z",
             "owner": "scaffeinate",
@@ -860,6 +910,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 176543861,
             "language": "Ruby",
             "last_commit": "2021-05-20T03:06:56Z",
             "owner": "davidesantangelo",
@@ -874,8 +925,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11671912,
             "language": "Ruby",
-            "last_commit": "2026-08-18T11:52:49Z",
+            "last_commit": "2026-08-19T11:52:53Z",
             "owner": "bikeindex",
             "repo": "bike_index",
             "stars": 308
@@ -888,6 +940,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 38628192,
             "language": "Ruby",
             "last_commit": "2025-08-31T21:23:58Z",
             "owner": "Retrospring",
@@ -902,6 +955,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 493163,
             "language": "Ruby",
             "last_commit": "2016-12-01T08:28:42Z",
             "owner": "rapidftr",
@@ -916,6 +970,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9408308,
             "language": "Ruby",
             "last_commit": "2018-05-13T23:37:23Z",
             "owner": "natew",
@@ -930,6 +985,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 168192998,
             "language": "Ruby",
             "last_commit": "2025-01-29T03:55:46Z",
             "owner": "commudle",
@@ -944,6 +1000,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 51416809,
             "language": "Ruby",
             "last_commit": "2025-12-05T09:43:50Z",
             "owner": "coderwall",
@@ -958,6 +1015,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 962564,
             "language": "Ruby",
             "last_commit": "2026-05-10T03:03:40Z",
             "owner": "expertiza",
@@ -972,8 +1030,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 509028,
             "language": "Ruby",
-            "last_commit": "2026-08-17T21:35:48Z",
+            "last_commit": "2026-08-18T23:45:54Z",
             "owner": "benwbrum",
             "repo": "fromthepage",
             "stars": 185
@@ -986,6 +1045,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93715219,
             "language": "Ruby",
             "last_commit": "2023-01-19T04:08:27Z",
             "owner": "liaoziyang",
@@ -1000,11 +1060,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22155032,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T04:56:54Z",
+            "last_commit": "2026-08-18T18:34:14Z",
             "owner": "Coursemology",
             "repo": "coursemology2",
-            "stars": 157
+            "stars": 158
           }
         },
         {
@@ -1014,8 +1075,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163459802,
             "language": "Ruby",
-            "last_commit": "2026-08-17T12:04:04Z",
+            "last_commit": "2026-08-19T12:03:34Z",
             "owner": "connorshea",
             "repo": "vglist",
             "stars": 157
@@ -1028,6 +1090,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9508942,
             "language": "Ruby",
             "last_commit": "2024-07-18T07:38:33Z",
             "owner": "Jellyfishboy",
@@ -1042,6 +1105,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72207529,
             "language": "JavaScript",
             "last_commit": "2023-01-19T10:59:04Z",
             "owner": "crowdAI",
@@ -1056,6 +1120,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15742370,
             "language": "Ruby",
             "last_commit": "2024-04-27T18:56:32Z",
             "owner": "AgileVentures",
@@ -1070,6 +1135,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 15053512,
             "language": "Ruby",
             "last_commit": "2018-07-11T13:14:45Z",
             "owner": "encrypt-to",
@@ -1084,6 +1150,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 14379065,
             "language": "Ruby",
             "last_commit": "2025-04-06T21:15:13Z",
             "owner": "glacials",
@@ -1098,6 +1165,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 345280,
             "language": "Ruby",
             "last_commit": "2020-07-23T19:49:48Z",
             "owner": "YaleSTC",
@@ -1112,6 +1180,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 8965536,
             "language": "Ruby",
             "last_commit": "2015-06-19T03:52:14Z",
             "owner": "jdjkelly",
@@ -1126,6 +1195,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 534594,
             "language": "Ruby",
             "last_commit": "2017-01-11T19:33:17Z",
             "owner": "pophealth",
@@ -1140,6 +1210,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4121776,
             "language": "TypeScript",
             "last_commit": "2026-08-17T12:37:54Z",
             "owner": "Darep",
@@ -1154,8 +1225,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 388113,
             "language": "Ruby",
-            "last_commit": "2026-08-18T12:38:26Z",
+            "last_commit": "2026-08-19T12:03:01Z",
             "owner": "openaustralia",
             "repo": "planningalerts",
             "stars": 115
@@ -1168,6 +1240,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47646072,
             "language": "Ruby",
             "last_commit": "2019-04-28T19:16:54Z",
             "owner": "intercity",
@@ -1182,6 +1255,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7040101,
             "language": "Ruby",
             "last_commit": "2022-06-24T22:42:15Z",
             "owner": "fairmondo",
@@ -1196,6 +1270,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1388205,
             "language": "Ruby",
             "last_commit": "2022-10-20T02:34:09Z",
             "owner": "codefirst",
@@ -1210,8 +1285,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61023964,
             "language": "Ruby",
-            "last_commit": "2026-08-17T23:36:59Z",
+            "last_commit": "2026-08-19T12:27:25Z",
             "owner": "somleng",
             "repo": "somleng",
             "stars": 98
@@ -1224,6 +1300,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4630567,
             "language": "Ruby",
             "last_commit": "2025-08-12T18:05:17Z",
             "owner": "dgidb",
@@ -1238,6 +1315,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43036761,
             "language": "Ruby",
             "last_commit": "2026-07-27T16:26:21Z",
             "owner": "DARIAEngineering",
@@ -1252,6 +1330,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 28201944,
             "language": "Ruby",
             "last_commit": "2021-12-11T16:20:03Z",
             "owner": "24pullrequests",
@@ -1266,6 +1345,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1255356,
             "language": "Ruby",
             "last_commit": "2019-07-09T18:45:28Z",
             "owner": "codeforamerica",
@@ -1280,8 +1360,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3199417,
             "language": "Ruby",
-            "last_commit": "2026-08-18T13:08:30Z",
+            "last_commit": "2026-08-19T11:04:11Z",
             "owner": "HabitatMap",
             "repo": "AirCasting",
             "stars": 64
@@ -1294,6 +1375,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 964174,
             "language": "Ruby",
             "last_commit": "2019-08-29T18:06:58Z",
             "owner": "EOL",
@@ -1308,6 +1390,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10254488,
             "language": "JavaScript",
             "last_commit": "2014-09-04T15:41:05Z",
             "owner": "balanced",
@@ -1322,6 +1405,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3099543,
             "language": "Ruby",
             "last_commit": "2025-08-07T06:26:24Z",
             "owner": "kaznum",
@@ -1336,6 +1420,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37166906,
             "language": "HTML",
             "last_commit": "2018-02-15T05:22:00Z",
             "owner": "rysmith",
@@ -1350,6 +1435,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 9888618,
             "language": "HTML",
             "last_commit": "2016-03-08T22:47:28Z",
             "owner": "sunlightlabs",
@@ -1364,6 +1450,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 881551997,
             "language": "Ruby",
             "last_commit": "2025-06-09T13:34:40Z",
             "owner": "freeats",
@@ -1378,6 +1465,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5924984,
             "language": "CoffeeScript",
             "last_commit": "2022-12-14T08:26:09Z",
             "owner": "Spokenvote",
@@ -1392,6 +1480,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 191122,
             "language": "Ruby",
             "last_commit": "2026-07-15T04:46:19Z",
             "owner": "scottwillson",
@@ -1406,6 +1495,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1007292781,
             "language": "Ruby",
             "last_commit": "2026-08-14T07:46:04Z",
             "owner": "spaquet",
@@ -1420,6 +1510,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12424879,
             "language": "Ruby",
             "last_commit": "2017-08-02T03:34:54Z",
             "owner": "askaway",
@@ -1434,6 +1525,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 278267172,
             "language": "Ruby",
             "last_commit": "2023-03-06T03:38:48Z",
             "owner": "x1wins",
@@ -1448,6 +1540,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19782190,
             "language": "HTML",
             "last_commit": "2016-11-28T17:09:40Z",
             "owner": "SIGIRE",
@@ -1462,6 +1555,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 576113101,
             "language": null,
             "last_commit": "2024-05-02T21:21:41Z",
             "owner": "obl-ong",
@@ -1476,6 +1570,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21144076,
             "language": "Ruby",
             "last_commit": "2014-09-19T12:28:41Z",
             "owner": "dankleiman",
@@ -1490,6 +1585,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 464918852,
             "language": "HTML",
             "last_commit": "2023-12-04T15:00:56Z",
             "owner": "enderahmetyurt",
@@ -1504,6 +1600,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 214472613,
             "language": "Ruby",
             "last_commit": "2026-08-14T19:45:17Z",
             "owner": "psu-libraries",
@@ -1518,6 +1615,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 662726379,
             "language": "Ruby",
             "last_commit": "2024-01-17T14:44:05Z",
             "owner": "maciejb2k",
@@ -1532,6 +1630,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 686665344,
             "language": "Ruby",
             "last_commit": "2025-04-25T11:59:36Z",
             "owner": "roberthopman",
@@ -1546,6 +1645,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 212780130,
             "language": "Ruby",
             "last_commit": "2023-01-19T15:13:15Z",
             "owner": "eduqg",
@@ -1560,24 +1660,1810 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1031401389,
             "language": "Ruby",
             "last_commit": "2026-05-25T03:57:28Z",
             "owner": "TheAcmada",
             "repo": "gwirian",
             "stars": 2
           }
-        },
-        {
-          "node_type": "item",
-          "title": "covoiturage-libre",
-          "description": "A carpooling app - using Rails 5.0 (archived).",
-          "children": []
         }
       ],
       "title": "Open Source Rails Apps"
     },
     {
-      "description": "",
+      "description": "[:red_circle:] : RubyGems link of gems\nDirect dependencies of the \"rails\" gem:\nOther gems that can be used with Rails\nBack to top",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "actioncable",
+          "description": "A gem to integrate websocket with a Rails app :red_circle: - Action Cable Overview",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8514,
+            "language": "Ruby",
+            "last_commit": "2026-08-18T21:24:38Z",
+            "owner": "rails",
+            "repo": "rails",
+            "stars": 58695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "actionmailbox",
+          "description": "A gem to handle incoming emails within a Rails app :red_circle: - Action Mailbox Basics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8514,
+            "language": "Ruby",
+            "last_commit": "2026-08-18T21:24:38Z",
+            "owner": "rails",
+            "repo": "rails",
+            "stars": 58695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "actionmailer",
+          "description": "A gem to compose, deliver & test emails within a Rails app :red_circle: - Action Mailer Basics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8514,
+            "language": "Ruby",
+            "last_commit": "2026-08-18T21:24:38Z",
+            "owner": "rails",
+            "repo": "rails",
+            "stars": 58695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "actionpack",
+          "description": "A gem to manage requests & responses within a Rails app :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8514,
+            "language": "Ruby",
+            "last_commit": "2026-08-18T21:24:38Z",
+            "owner": "rails",
+            "repo": "rails",
+            "stars": 58695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "actiontext",
+          "description": "A gem to integrate rich text editor into a Rails app :red_circle: - Action Text Overview",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8514,
+            "language": "Ruby",
+            "last_commit": "2026-08-18T21:24:38Z",
+            "owner": "rails",
+            "repo": "rails",
+            "stars": 58695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "actionview",
+          "description": "A gem to handle view templates within a Rails app :red_circle: - Action View Overview",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8514,
+            "language": "Ruby",
+            "last_commit": "2026-08-18T21:24:38Z",
+            "owner": "rails",
+            "repo": "rails",
+            "stars": 58695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "activejob",
+          "description": "A gem to handle background jobs within a Rails app :red_circle: - Active Job Basics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8514,
+            "language": "Ruby",
+            "last_commit": "2026-08-18T21:24:38Z",
+            "owner": "rails",
+            "repo": "rails",
+            "stars": 58695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "activemodel",
+          "description": "A gem to define a set of interfaces to use in model classes within a Rails app :red_circle: - Active Model Basics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8514,
+            "language": "Ruby",
+            "last_commit": "2026-08-18T21:24:38Z",
+            "owner": "rails",
+            "repo": "rails",
+            "stars": 58695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "activerecord",
+          "description": "A gem to connect model classes with relational databases within a Rails app :red_circle: - Active Record Basics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8514,
+            "language": "Ruby",
+            "last_commit": "2026-08-18T21:24:38Z",
+            "owner": "rails",
+            "repo": "rails",
+            "stars": 58695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "activestorage",
+          "description": "A gem to handle file uploads to cloud storage providers within a Rails app :red_circle: - Active Storage Overview",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8514,
+            "language": "Ruby",
+            "last_commit": "2026-08-18T21:24:38Z",
+            "owner": "rails",
+            "repo": "rails",
+            "stars": 58695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "activesupport",
+          "description": "A gem to provide some extensions to support a Rails app :red_circle: - Active Support Core Extensions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8514,
+            "language": "Ruby",
+            "last_commit": "2026-08-18T21:24:38Z",
+            "owner": "rails",
+            "repo": "rails",
+            "stars": 58695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "railties",
+          "description": "A gem to handle gems & engines used in a Rails app to work together :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8514,
+            "language": "Ruby",
+            "last_commit": "2026-08-18T21:24:38Z",
+            "owner": "rails",
+            "repo": "rails",
+            "stars": 58695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "devise",
+          "description": "A gem to provide authentication. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 308770,
+            "language": "Ruby",
+            "last_commit": "2026-06-22T17:32:32Z",
+            "owner": "heartcombo",
+            "repo": "devise",
+            "stars": 24354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spree",
+          "description": "An open source e-commerce platform. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3314,
+            "language": "Ruby",
+            "last_commit": "2026-08-19T11:58:35Z",
+            "owner": "spree",
+            "repo": "spree",
+            "stars": 15631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "activeadmin",
+          "description": "A gem to provide admin panel. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 611921,
+            "language": "Ruby",
+            "last_commit": "2026-08-19T08:05:01Z",
+            "owner": "activeadmin",
+            "repo": "activeadmin",
+            "stars": 9704
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "carrierwave",
+          "description": "A gem to handle file uploads. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 47087,
+            "language": "Ruby",
+            "last_commit": "2026-06-22T13:57:00Z",
+            "owner": "carrierwaveuploader",
+            "repo": "carrierwave",
+            "stars": 8781
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kaminari",
+          "description": "A gem to provide pagination. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1333863,
+            "language": "Ruby",
+            "last_commit": "2026-02-20T00:33:30Z",
+            "owner": "kaminari",
+            "repo": "kaminari",
+            "stars": 8673
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simple_form",
+          "description": "A gem to handle forms. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 451035,
+            "language": "Ruby",
+            "last_commit": "2026-04-01T23:20:59Z",
+            "owner": "heartcombo",
+            "repo": "simple_form",
+            "stars": 8227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rails_admin",
+          "description": "A gem to create & manage admin panel for Rails app. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 810796,
+            "language": "Ruby",
+            "last_commit": "2026-08-08T07:55:45Z",
+            "owner": "railsadminteam",
+            "repo": "rails_admin",
+            "stars": 7957
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "brakeman",
+          "description": "A gem to scan code against security vulnerabilities. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 865250,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T17:08:16Z",
+            "owner": "presidentbeef",
+            "repo": "brakeman",
+            "stars": 7262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "better_errors",
+          "description": "A tool to provide better error page. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7066560,
+            "language": "Ruby",
+            "last_commit": "2024-07-09T08:00:44Z",
+            "owner": "BetterErrors",
+            "repo": "better_errors",
+            "stars": 6863
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-rails",
+          "description": "A gem to integrate React.js with Rails app. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11667865,
+            "language": "JavaScript",
+            "last_commit": "2026-07-31T21:53:06Z",
+            "owner": "reactjs",
+            "repo": "react-rails",
+            "stars": 6775
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "searchkick",
+          "description": "A gem to provide search functionality. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11412473,
+            "language": "Ruby",
+            "last_commit": "2026-08-17T05:39:32Z",
+            "owner": "ankane",
+            "repo": "searchkick",
+            "stars": 6721
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "friendly_id",
+          "description": "A gem to deal with slugs & permalinks. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10865,
+            "language": "Ruby",
+            "last_commit": "2026-08-18T09:19:41Z",
+            "owner": "norman",
+            "repo": "friendly_id",
+            "stars": 6226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ransack",
+          "description": "A gem to provide search functionality. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1548802,
+            "language": "Ruby",
+            "last_commit": "2026-05-31T20:24:55Z",
+            "owner": "activerecord-hackery",
+            "repo": "ransack",
+            "stars": 5863
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cancancan",
+          "description": "A gem to handle authorization. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16994115,
+            "language": "Ruby",
+            "last_commit": "2026-08-09T13:29:52Z",
+            "owner": "CanCanCommunity",
+            "repo": "cancancan",
+            "stars": 5688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "doorkeeper",
+          "description": "A gem to introduce OAuth2 provider functionality. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2802565,
+            "language": "Ruby",
+            "last_commit": "2026-08-17T20:43:29Z",
+            "owner": "doorkeeper-gem",
+            "repo": "doorkeeper",
+            "stars": 5520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "solidus",
+          "description": "A fork of Spree gem, an open source e-commerce platform. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30985840,
+            "language": "Ruby",
+            "last_commit": "2026-08-19T05:46:24Z",
+            "owner": "solidusio",
+            "repo": "solidus",
+            "stars": 5318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "draper",
+          "description": "A gem to add presentation logic. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1980539,
+            "language": "Ruby",
+            "last_commit": "2026-05-29T22:35:41Z",
+            "owner": "drapergem",
+            "repo": "draper",
+            "stars": 5276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webpacker",
+          "description": "A gem to bundle web assets using Webpack. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75785147,
+            "language": "Ruby",
+            "last_commit": "2024-07-16T12:30:22Z",
+            "owner": "rails",
+            "repo": "webpacker",
+            "stars": 5273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rspec-rails",
+          "description": "A testing framework. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 447184,
+            "language": "Ruby",
+            "last_commit": "2026-08-19T11:58:51Z",
+            "owner": "rspec",
+            "repo": "rspec-rails",
+            "stars": 5272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "formtastic",
+          "description": "A Rails form builder gem with semantically rich and accessible markup. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7497,
+            "language": "Ruby",
+            "last_commit": "2026-02-28T05:30:10Z",
+            "owner": "formtastic",
+            "repo": "formtastic",
+            "stars": 5216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react_on_rails",
+          "description": "A gem to integrate React.js with Rails app with SSR. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 41117523,
+            "language": "Ruby",
+            "last_commit": "2026-08-19T04:28:37Z",
+            "owner": "shakacode",
+            "repo": "react_on_rails",
+            "stars": 5191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "annotate",
+          "description": "A gem to annotate rails classes with schema & routes info. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1462,
+            "language": "Ruby",
+            "last_commit": "2024-08-05T23:45:54Z",
+            "owner": "ctran",
+            "repo": "annotate_models",
+            "stars": 4486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "activerecord-import",
+          "description": "A gem to handle bulk data insertion using ActiveRecord. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 558790,
+            "language": "Ruby",
+            "last_commit": "2026-08-15T01:29:57Z",
+            "owner": "zdennis",
+            "repo": "activerecord-import",
+            "stars": 4155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rails-erd",
+          "description": "A gem to generate entity-relationship diagram. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 923028,
+            "language": "Ruby",
+            "last_commit": "2026-08-14T13:30:06Z",
+            "owner": "voormedia",
+            "repo": "rails-erd",
+            "stars": 4104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "groupdate",
+          "description": "A gem to manage temporal data. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9514413,
+            "language": "Ruby",
+            "last_commit": "2026-08-15T21:06:45Z",
+            "owner": "ankane",
+            "repo": "groupdate",
+            "stars": 3887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scenic",
+          "description": "A gem to manage database views. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19283674,
+            "language": "Ruby",
+            "last_commit": "2026-06-29T17:22:34Z",
+            "owner": "scenic-views",
+            "repo": "scenic",
+            "stars": 3623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lograge",
+          "description": "A gem to customize logger in Rails apps. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3677872,
+            "language": "Ruby",
+            "last_commit": "2026-07-08T15:18:58Z",
+            "owner": "roidrage",
+            "repo": "lograge",
+            "stars": 3574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "view_component",
+          "description": "A gem to introduce view components. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 200302808,
+            "language": "Ruby",
+            "last_commit": "2026-08-17T20:53:57Z",
+            "owner": "ViewComponent",
+            "repo": "view_component",
+            "stars": 3569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "factory_bot_rails",
+          "description": "A fixture replacement for testing in Rails :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 683939,
+            "language": "Ruby",
+            "last_commit": "2026-07-21T12:19:09Z",
+            "owner": "thoughtbot",
+            "repo": "factory_bot_rails",
+            "stars": 3137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "good_job",
+          "description": "A gem to provide Postgres-based ActiveJob backend. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 242765280,
+            "language": "Ruby",
+            "last_commit": "2026-08-15T12:32:46Z",
+            "owner": "bensheldon",
+            "repo": "good_job",
+            "stars": 2992
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spring",
+          "description": "A gem to preload Rails app. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7362671,
+            "language": "Ruby",
+            "last_commit": "2026-06-30T16:30:38Z",
+            "owner": "rails",
+            "repo": "spring",
+            "stars": 2814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "apipie-rails",
+          "description": "A REST API documentation tool. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2642653,
+            "language": "Ruby",
+            "last_commit": "2026-06-26T14:25:27Z",
+            "owner": "Apipie",
+            "repo": "apipie-rails",
+            "stars": 2507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "solid_queue",
+          "description": "A gem to Database-backed Active Job backend :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 588508856,
+            "language": "Ruby",
+            "last_commit": "2026-08-19T12:17:03Z",
+            "owner": "rails",
+            "repo": "solid_queue",
+            "stars": 2485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "turbo-rails",
+          "description": "A gem to integrate Turbo.js in Rails apps. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 317981738,
+            "language": "Ruby",
+            "last_commit": "2026-07-01T18:18:50Z",
+            "owner": "hotwired",
+            "repo": "turbo-rails",
+            "stars": 2389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zeitwerk",
+          "description": "A gem to handle thread-safe code loading. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 165262778,
+            "language": "Ruby",
+            "last_commit": "2026-08-06T06:44:48Z",
+            "owner": "fxn",
+            "repo": "zeitwerk",
+            "stars": 2138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "counter_culture",
+          "description": "A gem to provide counter caches. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4436959,
+            "language": "Ruby",
+            "last_commit": "2026-07-08T20:25:19Z",
+            "owner": "magnusvk",
+            "repo": "counter_culture",
+            "stars": 2119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "money-rails",
+          "description": "A gem to integrate Money gem in Rails apps. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3833911,
+            "language": "Ruby",
+            "last_commit": "2026-07-06T17:42:15Z",
+            "owner": "RubyMoney",
+            "repo": "money-rails",
+            "stars": 1890
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "avo",
+          "description": "Configuration-based, no-maintenance, extendable Ruby on Rails admin panel. rubygems",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 258990911,
+            "language": "Ruby",
+            "last_commit": "2026-08-19T11:11:17Z",
+            "owner": "avo-hq",
+            "repo": "avo",
+            "stars": 1797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "marginalia",
+          "description": "A gem to attach comments to ActiveRecord's SQL queries. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3689879,
+            "language": "Ruby",
+            "last_commit": "2026-04-20T22:07:02Z",
+            "owner": "basecamp",
+            "repo": "marginalia",
+            "stars": 1769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "premailer-rails",
+          "description": "A gem to handle email styling. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1561299,
+            "language": "Ruby",
+            "last_commit": "2024-06-17T05:56:17Z",
+            "owner": "fphilipe",
+            "repo": "premailer-rails",
+            "stars": 1765
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "js-routes",
+          "description": "A tool to generate all Rails routes as JavaScript helpers. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2149005,
+            "language": "Ruby",
+            "last_commit": "2026-06-21T09:40:30Z",
+            "owner": "railsware",
+            "repo": "js-routes",
+            "stars": 1698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lockbox",
+          "description": "A gem to deal with encryption. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 163880425,
+            "language": "Ruby",
+            "last_commit": "2026-04-09T07:04:01Z",
+            "owner": "ankane",
+            "repo": "lockbox",
+            "stars": 1607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geokit-rails",
+          "description": "A gem to integrate Geokit in Rails apps. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 93340,
+            "language": "Ruby",
+            "last_commit": "2024-02-23T16:46:25Z",
+            "owner": "geokit",
+            "repo": "geokit-rails",
+            "stars": 1586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "action_policy",
+          "description": "A tool to handle authorization. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 127313360,
+            "language": "Ruby",
+            "last_commit": "2026-07-25T04:34:44Z",
+            "owner": "palkan",
+            "repo": "action_policy",
+            "stars": 1561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aggregate_root",
+          "description": "A gem to handle event sourcing. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33212527,
+            "language": "Ruby",
+            "last_commit": "2026-08-11T09:53:52Z",
+            "owner": "RailsEventStore",
+            "repo": "rails_event_store",
+            "stars": 1547
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rails_event_store",
+          "description": "A gem to implement event store in Rails :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33212527,
+            "language": "Ruby",
+            "last_commit": "2026-08-11T09:53:52Z",
+            "owner": "RailsEventStore",
+            "repo": "rails_event_store",
+            "stars": 1547
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "autoprefixer-rails",
+          "description": "A gem to add vendor prefixes to stylesheets. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9228993,
+            "language": "Ruby",
+            "last_commit": "2025-04-12T14:28:49Z",
+            "owner": "ai",
+            "repo": "autoprefixer-rails",
+            "stars": 1210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alba",
+          "description": "A JSON serializer for Ruby, JRuby, and TruffleRuby. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 235342165,
+            "language": "Ruby",
+            "last_commit": "2026-08-18T14:58:48Z",
+            "owner": "okuramasafumi",
+            "repo": "alba",
+            "stars": 1197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ahoy_email",
+          "description": "A tool to provide mail analytics. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19231848,
+            "language": "Ruby",
+            "last_commit": "2026-08-17T05:38:04Z",
+            "owner": "ankane",
+            "repo": "ahoy_email",
+            "stars": 1189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "active_decorator",
+          "description": "A gem to keep views & helpers object-oriented. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2898239,
+            "language": "Ruby",
+            "last_commit": "2026-06-19T00:22:13Z",
+            "owner": "amatsuda",
+            "repo": "active_decorator",
+            "stars": 1129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rails-settings-cached",
+          "description": "A gem to manage global settings as key-value pairs. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1274040,
+            "language": "Ruby",
+            "last_commit": "2024-12-10T05:54:27Z",
+            "owner": "huacnlee",
+            "repo": "rails-settings-cached",
+            "stars": 1121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ranked-model",
+          "description": "A gem to handle sorting for rows. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1303125,
+            "language": "Ruby",
+            "last_commit": "2026-06-22T22:03:55Z",
+            "owner": "brendon",
+            "repo": "ranked-model",
+            "stars": 1095
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sprockets",
+          "description": "A gem to compile & serve web assets. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32104924,
+            "language": "Ruby",
+            "last_commit": "2026-08-18T16:24:11Z",
+            "owner": "rails",
+            "repo": "sprockets",
+            "stars": 985
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "activerecord-sqlserver-adapter",
+          "description": "ActiveRecord connection adapter for the SQL Server. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 76404,
+            "language": "Ruby",
+            "last_commit": "2026-08-07T16:08:10Z",
+            "owner": "rails-sqlserver",
+            "repo": "activerecord-sqlserver-adapter",
+            "stars": 981
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mailkick",
+          "description": "A tool to handle mail unsubscriptions. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19422384,
+            "language": "Ruby",
+            "last_commit": "2026-08-08T18:13:45Z",
+            "owner": "ankane",
+            "repo": "mailkick",
+            "stars": 975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hotwire-rails",
+          "description": "A gem to integrate Hotwire in Rails apps. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 321647551,
+            "language": "Ruby",
+            "last_commit": "2021-12-20T15:24:26Z",
+            "owner": "hotwired",
+            "repo": "hotwire-rails",
+            "stars": 963
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "select2-rails",
+          "description": "A gem to integrate Select2 library in Rails apps. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4254844,
+            "language": "Ruby",
+            "last_commit": "2022-12-16T14:12:06Z",
+            "owner": "argerim",
+            "repo": "select2-rails",
+            "stars": 963
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "breadcrumbs_on_rails",
+          "description": "A gem to create & manage breadcrumbs-style navigation. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 193842,
+            "language": "Ruby",
+            "last_commit": "2024-12-11T10:51:40Z",
+            "owner": "weppos",
+            "repo": "breadcrumbs_on_rails",
+            "stars": 953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "route_translator",
+          "description": "A tool to handle route translation. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4979192,
+            "language": "Ruby",
+            "last_commit": "2026-08-04T09:11:02Z",
+            "owner": "enriclluelles",
+            "repo": "route_translator",
+            "stars": 948
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "activerecord-postgis-adapter",
+          "description": "ActiveRecord connection adapter for PostGIS. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1145192,
+            "language": "Ruby",
+            "last_commit": "2026-04-16T16:06:38Z",
+            "owner": "rgeo",
+            "repo": "activerecord-postgis-adapter",
+            "stars": 936
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rubocop-rails",
+          "description": "A code style checking tool. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 136781582,
+            "language": "Ruby",
+            "last_commit": "2026-08-16T04:55:34Z",
+            "owner": "rubocop",
+            "repo": "rubocop-rails",
+            "stars": 875
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tinymce-rails",
+          "description": "A gem to integrate Tinymce in Rails apps. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2140555,
+            "language": "JavaScript",
+            "last_commit": "2026-07-27T12:16:50Z",
+            "owner": "spohlenz",
+            "repo": "tinymce-rails",
+            "stars": 823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "caxlsx_rails",
+          "description": "A gem to generate entity-relationship diagram. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5010734,
+            "language": "Ruby",
+            "last_commit": "2026-06-22T11:09:09Z",
+            "owner": "caxlsx",
+            "repo": "caxlsx_rails",
+            "stars": 762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rodauth-rails",
+          "description": "A gem to wrap Rodauth, an authentication handler, for Rails apps. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 254049553,
+            "language": "HTML",
+            "last_commit": "2026-08-17T07:11:12Z",
+            "owner": "janko",
+            "repo": "rodauth-rails",
+            "stars": 758
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stimulus-rails",
+          "description": "A gem to integrate Stimulus.js in Rails apps. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 317960316,
+            "language": "JavaScript",
+            "last_commit": "2025-03-03T15:46:58Z",
+            "owner": "hotwired",
+            "repo": "stimulus-rails",
+            "stars": 726
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sorbet-rails",
+          "description": "A gem to integrate Sorbet gem in Rails apps. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 182159589,
+            "language": "Ruby",
+            "last_commit": "2023-06-30T13:22:46Z",
+            "owner": "chanzuckerberg",
+            "repo": "sorbet-rails",
+            "stars": 630
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anycable-rails",
+          "description": "A gem to handle websocket server. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 79727061,
+            "language": "Ruby",
+            "last_commit": "2026-07-16T21:13:05Z",
+            "owner": "anycable",
+            "repo": "anycable-rails",
+            "stars": 535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "activity_notification",
+          "description": "A gem to integrate user activity notification. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 62952924,
+            "language": "Ruby",
+            "last_commit": "2026-07-14T00:47:03Z",
+            "owner": "simukappu",
+            "repo": "activity_notification",
+            "stars": 519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shakapacker",
+          "description": "A gem to use webpack to manage app-like JavaScript modules in Rails. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 85431399,
+            "language": "Ruby",
+            "last_commit": "2026-08-17T10:21:34Z",
+            "owner": "shakacode",
+            "repo": "shakapacker",
+            "stars": 490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tidewave",
+          "description": "MCP server for agentic Rails development, runtime-level tools for your agent to talk to your running app. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 964715939,
+            "language": "Ruby",
+            "last_commit": "2026-08-18T18:59:56Z",
+            "owner": "tidewave-ai",
+            "repo": "tidewave_rails",
+            "stars": 475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "activerecord-typedstore",
+          "description": "A gem to implement with type definition. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13891875,
+            "language": "Ruby",
+            "last_commit": "2024-02-28T09:58:15Z",
+            "owner": "byroot",
+            "repo": "activerecord-typedstore",
+            "stars": 468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frozen_record",
+          "description": "A gem to provide ActiveRecord-like interface to query static YAML files. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17160802,
+            "language": "Ruby",
+            "last_commit": "2026-06-22T18:22:14Z",
+            "owner": "byroot",
+            "repo": "frozen_record",
+            "stars": 448
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rails_semantic_logger",
+          "description": "A gem to provide alternative logging approach for Rails app. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7261185,
+            "language": "Ruby",
+            "last_commit": "2026-08-18T19:09:10Z",
+            "owner": "reidmorrison",
+            "repo": "rails_semantic_logger",
+            "stars": 423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "algoliasearch-rails",
+          "description": "A gem to integrate Algolia search. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12899649,
+            "language": "Ruby",
+            "last_commit": "2025-11-26T10:46:20Z",
+            "owner": "algolia",
+            "repo": "algoliasearch-rails",
+            "stars": 419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "activerecord-postgres_enum",
+          "description": "A gem to adds migration and schema.rb support to PostgreSQL enum data types. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 155377349,
+            "language": "Ruby",
+            "last_commit": "2024-06-13T09:47:34Z",
+            "owner": "bibendi",
+            "repo": "activerecord-postgres_enum",
+            "stars": 366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "prerender_rails",
+          "description": "A gem to prerender JavaScript-rendered pages. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13127843,
+            "language": "Ruby",
+            "last_commit": "2026-06-09T09:11:02Z",
+            "owner": "prerender",
+            "repo": "prerender_rails",
+            "stars": 358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma-rails",
+          "description": "A wrapper for Bulma, a CSS framework based on flexbox. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 50657689,
+            "language": "SCSS",
+            "last_commit": "2025-12-28T09:18:26Z",
+            "owner": "joshuajansen",
+            "repo": "bulma-rails",
+            "stars": 354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rollup",
+          "description": "A gem to handle time-series data in Rails :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 293644943,
+            "language": "Ruby",
+            "last_commit": "2026-06-29T04:59:44Z",
+            "owner": "ankane",
+            "repo": "rollup",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kt-paperclip",
+          "description": "A gem to handle file uploads. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 224649977,
+            "language": "Ruby",
+            "last_commit": "2026-07-08T13:54:11Z",
+            "owner": "kreeti",
+            "repo": "kt-paperclip",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "activerecord-analyze",
+          "description": "A gem to add EXPLAIN ANALYZE to Rails Active Record query objects. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 124788763,
+            "language": "Ruby",
+            "last_commit": "2024-02-25T21:37:28Z",
+            "owner": "pawurb",
+            "repo": "activerecord-analyze",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "filestack-rails",
+          "description": "A gem to integrate Filestack. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5906709,
+            "language": "JavaScript",
+            "last_commit": "2024-12-10T22:54:49Z",
+            "owner": "filestack",
+            "repo": "filestack-rails",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rabarber",
+          "description": "A gem to handle role-based authorization. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 606374483,
+            "language": "Ruby",
+            "last_commit": "2026-08-08T13:04:03Z",
+            "owner": "enjaku4",
+            "repo": "rabarber",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rails-mermaid_erd",
+          "description": "A gem to interactively generate entity-relationship diagram in image or Markdown format. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 545787168,
+            "language": "Ruby",
+            "last_commit": "2026-07-31T22:55:59Z",
+            "owner": "koedame",
+            "repo": "rails-mermaid_erd",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "redisWebManager",
+          "description": "Web interface that allows you to manage easily your Redis instance. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 238955845,
+            "language": "Ruby",
+            "last_commit": "2025-02-11T17:47:52Z",
+            "owner": "OpenGems",
+            "repo": "redis_web_manager",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "activerecord-pg_enum",
+          "description": "A gem to integrate PostgreSQL's enumerated types with the Rails enum feature. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 138442095,
+            "language": "Ruby",
+            "last_commit": "2022-09-19T19:56:58Z",
+            "owner": "alassek",
+            "repo": "activerecord-pg_enum",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sequel-activerecord_connection",
+          "description": "A gem to allow Sequel to reuse an ActiveRecord connection. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 259274048,
+            "language": "Ruby",
+            "last_commit": "2026-04-29T12:09:14Z",
+            "owner": "janko",
+            "repo": "sequel-activerecord_connection",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ace-rails-ap",
+          "description": "A gem to integrate ajax.org cloud9 editor into Rails asset pipeline. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2508425,
+            "language": "Ruby",
+            "last_commit": "2023-01-12T10:06:48Z",
+            "owner": "codykrieger",
+            "repo": "ace-rails-ap",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "active_enum",
+          "description": "A gem to provide enum classes :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 345688,
+            "language": "Ruby",
+            "last_commit": "2026-01-13T18:21:01Z",
+            "owner": "adzap",
+            "repo": "active_enum",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rgeo-activerecord",
+          "description": "A gem to provide common tools used by RGeo-based spatial adapters. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1144944,
+            "language": "Ruby",
+            "last_commit": "2025-10-23T12:52:03Z",
+            "owner": "rgeo",
+            "repo": "rgeo-activerecord",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reform-rails",
+          "description": "A gem to wrap Reform gem, a form validation tool, with Rails app. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40753214,
+            "language": "Ruby",
+            "last_commit": "2025-12-18T08:43:26Z",
+            "owner": "trailblazer",
+            "repo": "reform-rails",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bemi-rails",
+          "description": "A robust data change tracking and audit trail for Rails. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 769213628,
+            "language": "Ruby",
+            "last_commit": "2024-08-13T15:09:06Z",
+            "owner": "BemiHQ",
+            "repo": "bemi-rails",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "paloma",
+          "description": "A gem to manage page-specific JavaScript in Rails apps. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 60257367,
+            "language": "Ruby",
+            "last_commit": "2025-02-06T09:58:43Z",
+            "owner": "gnclmorais",
+            "repo": "paloma",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trove",
+          "description": "A gem to handle machine learning models deployment. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 308787904,
+            "language": "Ruby",
+            "last_commit": "2026-04-09T18:50:57Z",
+            "owner": "ankane",
+            "repo": "trove",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "metka",
+          "description": "A gem to manage tags using Postgresql array columns. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 203344834,
+            "language": "Ruby",
+            "last_commit": "2026-08-19T00:30:58Z",
+            "owner": "metka-ruby",
+            "repo": "metka",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "image_optim_rails",
+          "description": "A gem to handle image optimization. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 65138000,
+            "language": "Ruby",
+            "last_commit": "2026-08-16T19:43:17Z",
+            "owner": "toy",
+            "repo": "image_optim_rails",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "passive_columns",
+          "description": "A gem that extends Active Record to retrieve specific columns from DB on demand. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 812366248,
+            "language": "Ruby",
+            "last_commit": "2026-05-11T23:46:21Z",
+            "owner": "headmandev",
+            "repo": "passive_columns",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "transloadit-rails",
+          "description": "A gem to integrate Transloadit's file uploading and encoding service. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1422169,
+            "language": "Ruby",
+            "last_commit": "2026-06-08T19:51:02Z",
+            "owner": "transloadit",
+            "repo": "rails-sdk",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgcli-rails",
+          "description": "A replacement of command to manage Postgresql. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 63453428,
+            "language": "Ruby",
+            "last_commit": "2026-08-01T23:17:42Z",
+            "owner": "mattbrictson",
+            "repo": "pgcli-rails",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "veri",
+          "description": "A gem for cookie-based authentication with fine-grained session control and management. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 987309201,
+            "language": "Ruby",
+            "last_commit": "2026-08-08T13:06:46Z",
+            "owner": "enjaku4",
+            "repo": "veri",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gretel",
+          "description": "A tool to generate breadcrumbs. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 850529036,
+            "language": "Ruby",
+            "last_commit": "2026-01-31T05:23:34Z",
+            "owner": "kzkn",
+            "repo": "gretel",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "auther",
+          "description": "A gem to provide simple, form-based authentication. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15789823,
+            "language": "Ruby",
+            "last_commit": "2026-05-09T19:59:03Z",
+            "owner": "bkuhlmann",
+            "repo": "auther",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kreds",
+          "description": "A shorthand for Rails credentials access. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 944054327,
+            "language": "Ruby",
+            "last_commit": "2026-07-19T18:27:28Z",
+            "owner": "enjaku4",
+            "repo": "kreds",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "db_validator",
+          "description": "A gem to find records in your database that do not meet model validation requirements. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 884966798,
+            "language": "Ruby",
+            "last_commit": "2024-12-13T20:45:40Z",
+            "owner": "krzysztoff1",
+            "repo": "db-validator",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "active_admin_prism",
+          "description": "An ActiveAdmin theme that replaces the default top navigation with a collapsible left sidebar, restyling panels, tables & Formtastic forms into a modern card-based look. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1298289325,
+            "language": "SCSS",
+            "last_commit": "2026-07-22T18:04:15Z",
+            "owner": "ramlaxmanyadav",
+            "repo": "active_admin_prism",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scryer",
+          "description": "A security auditing & static analysis tool that scans Rails apps for vulnerabilities, performance issues, and code quality problems. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1330163726,
+            "language": "Ruby",
+            "last_commit": "2026-08-17T03:11:31Z",
+            "owner": "ramlaxmanyadav",
+            "repo": "scryer",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sidemail",
+          "description": "A gem for sending and managing application emails. :red_circle:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1115695585,
+            "language": "Ruby",
+            "last_commit": "2025-12-16T10:42:59Z",
+            "owner": "sidemail",
+            "repo": "sidemail-sdk-ruby",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "subflag-rails",
+          "description": "A gem for feature flags and dynamic config that uses ActiveRecord. 🔴",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1105405838,
+            "language": "Ruby",
+            "last_commit": "2026-07-30T17:56:36Z",
+            "owner": "subflag",
+            "repo": "sdk",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Gems"
+    },
+    {
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1586,6 +3472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 666566,
             "language": "Ruby",
             "last_commit": "2026-06-19T10:15:09Z",
             "owner": "thoughtbot",
@@ -1600,6 +3487,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 80081497,
             "language": "HTML",
             "last_commit": "2025-02-07T19:11:48Z",
             "owner": "excid3",
@@ -1614,6 +3502,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 72115697,
             "language": "Ruby",
             "last_commit": "2024-10-29T04:23:56Z",
             "owner": "ledermann",
@@ -1628,6 +3517,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 30093164,
             "language": "Ruby",
             "last_commit": "2023-12-18T20:07:18Z",
             "owner": "mattbrictson",
@@ -1642,6 +3532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41264511,
             "language": "Ruby",
             "last_commit": "2026-04-07T08:03:26Z",
             "owner": "lewagon",
@@ -1656,6 +3547,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70519835,
             "language": "Ruby",
             "last_commit": "2026-08-14T18:44:46Z",
             "owner": "rootstrap",
@@ -1670,6 +3562,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156891062,
             "language": "HTML",
             "last_commit": "2022-12-13T08:48:09Z",
             "owner": "justalever",
@@ -1684,6 +3577,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123519312,
             "language": "Ruby",
             "last_commit": "2026-08-17T19:03:10Z",
             "owner": "ackama",
@@ -1698,6 +3592,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62069396,
             "language": "Ruby",
             "last_commit": "2025-06-29T14:52:30Z",
             "owner": "dao42",
@@ -1712,6 +3607,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169886066,
             "language": "Ruby",
             "last_commit": "2023-01-19T11:40:57Z",
             "owner": "zauberware",
@@ -1726,6 +3622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118421995,
             "language": "Ruby",
             "last_commit": "2023-01-19T11:16:15Z",
             "owner": "jetthoughts",
@@ -1740,6 +3637,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88722158,
             "language": "Ruby",
             "last_commit": "2023-07-31T08:32:45Z",
             "owner": "lockstep",
@@ -1754,6 +3652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 277570765,
             "language": "Ruby",
             "last_commit": "2022-02-08T21:29:13Z",
             "owner": "Ruby-Starter-Kits",
@@ -1768,6 +3667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46853784,
             "language": "Ruby",
             "last_commit": "2026-07-10T22:48:10Z",
             "owner": "nimblehq",
@@ -1782,6 +3682,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173941295,
             "language": "Ruby",
             "last_commit": "2026-08-13T09:54:20Z",
             "owner": "astrocket",
@@ -1796,6 +3697,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 323751501,
             "language": "Ruby",
             "last_commit": "2024-08-15T23:04:25Z",
             "owner": "rootstrap",
@@ -1810,6 +3712,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169934653,
             "language": "Ruby",
             "last_commit": "2023-03-08T20:09:47Z",
             "owner": "TristanToye",
@@ -1824,6 +3727,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73177813,
             "language": "Ruby",
             "last_commit": "2025-11-24T13:18:56Z",
             "owner": "infinum",
@@ -1838,6 +3742,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 203341579,
             "language": "Ruby",
             "last_commit": "2023-01-19T14:27:48Z",
             "owner": "scottrobertson",
@@ -1852,6 +3757,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 301475824,
             "language": "Ruby",
             "last_commit": "2020-12-17T09:38:54Z",
             "owner": "thomasvanholder",
@@ -1866,8 +3772,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 878728162,
             "language": "Ruby",
-            "last_commit": "2026-08-14T05:15:43Z",
+            "last_commit": "2026-08-19T05:58:27Z",
             "owner": "nativeapptemplate",
             "repo": "nativeapptemplateapi",
             "stars": 14
@@ -1880,6 +3787,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1298467973,
             "language": "Ruby",
             "last_commit": "2026-08-09T21:34:14Z",
             "owner": "ramlaxmanyadav",
@@ -1891,54 +3799,54 @@
       "title": "Starters/Boilerplates"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Other Rails Tools"
-    },
-    {
-      "description": "Back to top",
-      "items": [],
-      "title": "Generators"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Optic",
-          "description": "Optic automatically documents and tests your APIs.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2026-01-08T21:11:15Z",
-            "owner": "opticdev",
-            "repo": "optic",
-            "stars": 1535
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rails-dashboard",
-          "description": "A dev-tool to improve your rails log.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-07-11T07:29:46Z",
-            "owner": "y-takey",
-            "repo": "rails-dashboard",
-            "stars": 148
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Optic",
+              "description": "Optic automatically documents and tests your APIs.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 123606765,
+                "language": "TypeScript",
+                "last_commit": "2026-01-08T21:11:15Z",
+                "owner": "opticdev",
+                "repo": "optic",
+                "stars": 1535
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rails-dashboard",
+              "description": "A dev-tool to improve your rails log.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98525953,
+                "language": "JavaScript",
+                "last_commit": "2023-07-11T07:29:46Z",
+                "owner": "y-takey",
+                "repo": "rails-dashboard",
+                "stars": 148
+              }
+            }
+          ],
+          "description": "Back to top",
+          "node_type": "group",
+          "title": "DevTools"
         }
       ],
-      "title": "DevTools"
+      "title": "Other Rails Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:42:03.818Z",
+    "last_updated": "2026-08-19T12:46:44.587Z",
     "original_repository": "gramantin/awesome-rails",
-    "original_repository_sha": "d7d31c76c45a814e22963b9cf4ee1e751501460e",
+    "original_repository_id": 22022574,
+    "original_repository_sha": "e1d052387f26e352373c0afe6f66b8831f599b04",
     "enhanced_repository": "enhansome/enhansome-rails",
     "enhanced_repository_description": null,
     "title": "Awesome Rails with stars"
