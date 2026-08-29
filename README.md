@@ -1,6 +1,6 @@
 # Awesome Rails with stars
 
-> A curated list of awesome things related to Ruby on Rails [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 500,890 | 🐛 105 | 📅 2026-08-21
+> A curated list of awesome things related to Ruby on Rails [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme) ⭐ 501,071 | 🐛 105 | 📅 2026-08-21
 
 ![awesome-rails](./.github/assets/awesome-rails.png)
 
@@ -100,7 +100,7 @@
 * [rails jobs on Startup Jobs](https://startup.jobs/ruby-jobs)
 * [rails jobs on RubyJobBoard](https://www.rubyjobboard.com)
 
-> Tip: You can find list of remote job boards including Rails jobs on [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job#job-boards) ⭐ 48,191 | 🐛 83 | 📅 2026-08-16
+> Tip: You can find list of remote job boards including Rails jobs on [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job#job-boards) ⭐ 48,206 | 🐛 83 | 📅 2026-08-16
 
 [Back to top][link_toc]
 
@@ -263,18 +263,18 @@
 > Note: Rails versions of these apps are valid as the date of latest commit. They are defined in their Gemfile and/or Gemfile.lock and they might be outdated. If you find it outdated, don't forget to notfiy us by opening a pull request.
 
 * [maybe](https://github.com/maybe-finance/maybe) ⚠️ Archived - The personal finance app for everyone (using Rails 7.2.2). - [:earth\_africa:](https://maybefinance.com/)
-* [mastodon](https://github.com/mastodon/mastodon) ⭐ 50,256 | 🐛 4,508 | 🌐 Ruby | 📅 2026-08-29 - A microblogging app (using Rails 6.1). - [:earth\_africa:](https://mastodon.social/about)
-* [discourse](https://github.com/discourse/discourse) ⭐ 47,750 | 🐛 281 | 🌐 Ruby | 📅 2026-08-29 - A platform for community discussion (using Rails 7.0). - [:earth\_africa:](https://try.discourse.org/)
-* [chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 36,285 | 🐛 1,350 | 🌐 Ruby | 📅 2026-08-28 - A simple and elegant live chat software (using Rails 6.1).
+* [mastodon](https://github.com/mastodon/mastodon) ⭐ 50,258 | 🐛 4,511 | 🌐 Ruby | 📅 2026-08-29 - A microblogging app (using Rails 6.1). - [:earth\_africa:](https://mastodon.social/about)
+* [discourse](https://github.com/discourse/discourse) ⭐ 47,756 | 🐛 286 | 🌐 Ruby | 📅 2026-08-29 - A platform for community discussion (using Rails 7.0). - [:earth\_africa:](https://try.discourse.org/)
+* [chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 36,291 | 🐛 1,351 | 🌐 Ruby | 📅 2026-08-29 - A simple and elegant live chat software (using Rails 6.1).
 * [gitlabhq](https://github.com/gitlabhq/gitlabhq) ⭐ 24,546 | 🐛 36 | 🌐 Ruby | 📅 2026-08-29 - A code collaboration app (using Rails 6.1).
-* [forem](https://github.com/forem/forem) ⭐ 22,774 | 🐛 127 | 🌐 Ruby | 📅 2026-08-28 - Social platform app specialized for web development (using Rails 7.0). - [:earth\_africa:](https://www.forem.com)
-* [docuseal](https://github.com/docusealco/docuseal) ⭐ 18,398 | 🐛 120 | 🌐 Ruby | 📅 2026-08-25 - A platform to fill and sign digital documents (using Rails 7.0). - [:earth\_africa:](https://www.docuseal.co/)
-* [postal](https://github.com/postalserver/postal) ⭐ 16,772 | 🐛 89 | 🌐 Ruby | 📅 2026-08-18 - A mail delivery platform (using Rails 5.2).
-* [openproject](https://github.com/opf/openproject) ⭐ 15,964 | 🐛 226 | 🌐 Ruby | 📅 2026-08-29 - A project management app (using Rails 7.0). - [:earth\_africa:](https://www.openproject.org)
+* [forem](https://github.com/forem/forem) ⭐ 22,773 | 🐛 127 | 🌐 Ruby | 📅 2026-08-28 - Social platform app specialized for web development (using Rails 7.0). - [:earth\_africa:](https://www.forem.com)
+* [docuseal](https://github.com/docusealco/docuseal) ⭐ 18,402 | 🐛 120 | 🌐 Ruby | 📅 2026-08-25 - A platform to fill and sign digital documents (using Rails 7.0). - [:earth\_africa:](https://www.docuseal.co/)
+* [postal](https://github.com/postalserver/postal) ⭐ 16,773 | 🐛 89 | 🌐 Ruby | 📅 2026-08-18 - A mail delivery platform (using Rails 5.2).
+* [openproject](https://github.com/opf/openproject) ⭐ 15,968 | 🐛 226 | 🌐 Ruby | 📅 2026-08-29 - A project management app (using Rails 7.0). - [:earth\_africa:](https://www.openproject.org)
 * [diaspora](https://github.com/diaspora/diaspora) ⭐ 13,654 | 🐛 425 | 🌐 Ruby | 📅 2026-07-28 - A social networking app - using Rails 6.1 - [:earth\_africa:](https://diasporafoundation.org)
 * [canvas-lms](https://github.com/instructure/canvas-lms) ⭐ 6,789 | 🐛 467 | 🌐 Ruby | 📅 2026-04-30 - A learning management app.
-* [lobsters](https://github.com/lobsters/lobsters) ⭐ 4,819 | 🐛 263 | 🌐 Ruby | 📅 2026-08-17 - A link aggregation app (using Rails 8.1). - [:earth\_africa:](https://lobste.rs)
-* [theodinproject](https://github.com/TheOdinProject/theodinproject) ⭐ 4,594 | 🐛 51 | 🌐 Ruby | 📅 2026-08-27 - A teaching & learning platform (using Rails 6.1). - [:earth\_africa:](https://www.theodinproject.com/)
+* [lobsters](https://github.com/lobsters/lobsters) ⭐ 4,819 | 🐛 264 | 🌐 Ruby | 📅 2026-08-17 - A link aggregation app (using Rails 8.1). - [:earth\_africa:](https://lobste.rs)
+* [theodinproject](https://github.com/TheOdinProject/theodinproject) ⭐ 4,595 | 🐛 51 | 🌐 Ruby | 📅 2026-08-27 - A teaching & learning platform (using Rails 6.1). - [:earth\_africa:](https://www.theodinproject.com/)
 * [blackCandy](https://github.com/blackcandy-org/black_candy) ⭐ 4,408 | 🐛 33 | 🌐 Ruby | 📅 2026-08-26 - A music streaming app (using Rails 7.0).
 * [feedbin](https://github.com/feedbin/feedbin) ⭐ 3,778 | 🐛 181 | 🌐 Ruby | 📅 2026-08-25 - A RSS reader app (using Rails 7.0). - [:earth\_africa:](https://feedbin.com)
 * [fat-free-crm](https://github.com/fatfreecrm/fat_free_crm) ⭐ 3,628 | 🐛 72 | 🌐 Ruby | 📅 2026-08-26 - An open source, Ruby on Rails customer relationship management platform (CRM) (using Rails 6.1). - [:earth\_africa:](http://www.fatfreecrm.com/)
@@ -282,19 +282,19 @@
 * [passwordPusher](https://github.com/pglombardo/PasswordPusher) ⭐ 3,170 | 🐛 113 | 🌐 Ruby | 📅 2026-08-28 - A password delivery app (using Rails 6.1). - [:earth\_africa:](https://pwpush.com)
 * [selfstarter](https://github.com/apigy/selfstarter) ⭐ 3,154 | 🐛 47 | 🌐 Ruby | 📅 2022-10-27 - A crowdfunding app (using Rails 4.0).
 * [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) ⭐ 2,815 | 🐛 655 | 🌐 Ruby | 📅 2026-08-28 - A map viewing app (using Rails 7.0). - [:earth\_africa:](https://www.openstreetmap.org)
-* [danbooru](https://github.com/danbooru/danbooru) ⭐ 2,794 | 🐛 468 | 🌐 Ruby | 📅 2026-08-29 - A taggable image board app (using Rails 7.0).
-* [loomio](https://github.com/loomio/loomio) ⭐ 2,592 | 🐛 95 | 🌐 Ruby | 📅 2026-08-29 - A collaborative decision-making app (using Rails 6.1). - [:earth\_africa:](https://www.loomio.com/)
+* [danbooru](https://github.com/danbooru/danbooru) ⭐ 2,794 | 🐛 469 | 🌐 Ruby | 📅 2026-08-29 - A taggable image board app (using Rails 7.0).
+* [loomio](https://github.com/loomio/loomio) ⭐ 2,593 | 🐛 95 | 🌐 Ruby | 📅 2026-08-29 - A collaborative decision-making app (using Rails 6.1). - [:earth\_africa:](https://www.loomio.com/)
 * [helpy](https://github.com/helpyio/helpy) ⭐ 2,472 | 🐛 230 | 🌐 Ruby | 📅 2023-03-08 - A customer support app (using Rails 4.2). - [:earth\_africa:](https://helpy.io/)
 * [sharetribe](https://github.com/sharetribe/sharetribe) ⭐ 2,445 | 🐛 3 | 🌐 Ruby | 📅 2026-05-11 - A peer-to-peer marketplace platform (using Rails 5.2). - [:earth\_africa:](https://www.sharetribe.com)
+* [rubygems.org](https://github.com/rubygems/rubygems.org) ⭐ 2,439 | 🐛 114 | 🌐 Ruby | 📅 2026-08-29 - A gem hosting platform (using Rails 7.0). - [:earth\_africa:](https://rubygems.org)
 * [redmine](https://github.com/edavis10/redmine) ⭐ 2,438 | 🐛 24 | 🌐 Ruby | 📅 2022-04-10 - A project management app (using Rails 6.1). - [:earth\_africa:](http://demo.redmine.org)
-* [rubygems.org](https://github.com/rubygems/rubygems.org) ⭐ 2,438 | 🐛 113 | 🌐 Ruby | 📅 2026-08-29 - A gem hosting platform (using Rails 7.0). - [:earth\_africa:](https://rubygems.org)
 * [otwarchive](https://github.com/otwcode/otwarchive) ⭐ 2,202 | 🐛 136 | 🌐 Ruby | 📅 2026-08-27 - A social networking app for fans - using Rails 6.0 - [:earth\_africa:](https://archiveofourown.org)
 * [kitsu-tools](https://github.com/hummingbird-me/kitsu-tools) ⭐ 2,145 | 🐛 26 | 🌐 HTML | 📅 2023-12-16 - An anime discovery platform (using Rails 4.1).
 * [ciao](https://github.com/brotandgames/ciao) ⭐ 1,977 | 🐛 2 | 🌐 Ruby | 📅 2026-07-16 - A URL status checking app (using Rails 6.0).
 * [publify](https://github.com/publify/publify) ⭐ 1,855 | 🐛 84 | 🌐 Less | 📅 2026-08-28 - A blogging app (using Rails 6.1).
 * [teambox](https://github.com/redbooth/teambox) ⚠️ Archived - A collaboration app - using Rails 3.0 - [:earth\_africa:](https://redbooth.com) (archived).
 * [openFarm](https://github.com/openfarmcc/OpenFarm) ⚠️ Archived - A database for information about farming and gardening (using Rails 5.2). -
-* [multiwoven](https://github.com/Multiwoven/multiwoven) ⭐ 1,672 | 🐛 175 | 🌐 Ruby | 📅 2026-08-29- The open-source reverse ETL, data activation platform for modern data teams. (using Rails 7.1.1) - [🌍](https://www.multiwoven.com/)
+* [multiwoven](https://github.com/Multiwoven/multiwoven) ⭐ 1,673 | 🐛 175 | 🌐 Ruby | 📅 2026-08-29- The open-source reverse ETL, data activation platform for modern data teams. (using Rails 7.1.1) - [🌍](https://www.multiwoven.com/)
 * [catarse](https://github.com/catarse/catarse) ⚠️ Archived - A crowdfunding platform for creative projects (using Rails 4.2). - [:earth\_africa:](https://www.catarse.me/)
 * [codetriage](https://github.com/codetriage/codetriage) ⭐ 1,465 | 🐛 103 | 🌐 Ruby | 📅 2026-08-02 - An open source project finder app (using Rails 7.0). - [:earth\_africa:](https://www.codetriage.com/)
 * [onebody](https://github.com/seven1m/onebody) ⚠️ Archived - A social networking app for churches - using Rails 5.1
@@ -309,14 +309,14 @@
 * [FAE](https://github.com/wearefine/fae/) ⭐ 852 | 🐛 13 | 🌐 Ruby | 📅 2026-08-26 - A modern CMS developed by FINE (using Rails 5.2)
 * [inaturalist](https://github.com/inaturalist/inaturalist) ⭐ 849 | 🐛 547 | 🌐 JavaScript | 📅 2026-08-28 - A community app for nature and related stuff (using Rails 6.1). - [:earth\_africa:](https://www.inaturalist.org)
 * [autolab](https://github.com/autolab/Autolab) ⭐ 809 | 🐛 189 | 🌐 Ruby | 📅 2026-08-22 - A course management app (using Rails 6.0). - [:earth\_africa:](https://autolabproject.com/)
-* [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) ⭐ 792 | 🐛 30 | 🌐 Ruby | 📅 2023-09-26 - A civic infrastructure detection app (using Rails 4.2).
+* [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) ⭐ 793 | 🐛 30 | 🌐 Ruby | 📅 2023-09-26 - A civic infrastructure detection app (using Rails 4.2).
 * [lavish](https://github.com/mquan/lavish) ⭐ 688 | 🐛 16 | 🌐 CSS | 📅 2022-12-13 - A color scheme generator (using Rails 4.2).
 * [hackershare](https://github.com/hackershare/hackershare) ⭐ 664 | 🐛 14 | 🌐 HTML | 📅 2024-06-18 - Social bookmarks website for hackers (using Rails 7.0). - [:earth\_africa:](https://hackershare.dev/en)
 * [kanban](https://github.com/seanomlor/kanban) ⭐ 637 | 🐛 18 | 🌐 Ruby | 📅 2015-10-23 - A Trello clone (using Rails 4.2).
 * [crowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) ⭐ 598 | 🐛 60 | 🌐 Ruby | 📅 2016-08-10 - A crowdfunding platform - using Rails 6.1
-* [human-essentials](https://github.com/rubyforgood/human-essentials) ⭐ 583 | 🐛 75 | 🌐 Ruby | 📅 2026-08-29 - An inventory management system for essentials banks (using Rails 7.0). - [:earth\_africa:](https://humanessentials.app/)
+* [human-essentials](https://github.com/rubyforgood/human-essentials) ⭐ 587 | 🐛 79 | 🌐 Ruby | 📅 2026-08-29 - An inventory management system for essentials banks (using Rails 7.0). - [:earth\_africa:](https://humanessentials.app/)
 * [ekylibre](https://github.com/ekylibre/ekylibre) ⭐ 489 | 🐛 9 | 🌐 Ruby | 📅 2026-08-27 - A farm management app (using Rails 5.0).
-* [hitobito](https://github.com/hitobito/hitobito) ⭐ 477 | 🐛 383 | 🌐 Ruby | 📅 2026-08-28 - An event organization app (using Rails 6.1). - [:earth\_africa:](https://hitobito.com/en)
+* [hitobito](https://github.com/hitobito/hitobito) ⭐ 477 | 🐛 384 | 🌐 Ruby | 📅 2026-08-28 - An event organization app (using Rails 6.1). - [:earth\_africa:](https://hitobito.com/en)
 * [growstuff](https://github.com/Growstuff/growstuff) ⭐ 473 | 🐛 120 | 🌐 Ruby | 📅 2026-08-28 - A data management app for food gardeners (using Rails 6.1). - [:earth\_africa:](https://www.growstuff.org/)
 * [calagator](https://github.com/calagator/calagator) ⭐ 447 | 🐛 76 | 🌐 Ruby | 📅 2026-02-24 - A community calendaring app (using Rails 5.2).
 * [campo](https://github.com/chloerei/campo) ⭐ 436 | 🐛 2 | 🌐 Ruby | 📅 2015-07-15 - A forum app (using Rails 4.1).
@@ -387,25 +387,25 @@
 
 > Direct dependencies of the "rails" gem:
 
-* [actioncable](https://github.com/rails/rails/tree/main/actioncable) ⭐ 58,729 | 🐛 1,606 | 🌐 Ruby | 📅 2026-08-29 - A gem to integrate websocket with a Rails app [:red\_circle:](https://rubygems.org/gems/actioncable) - [Action Cable Overview](https://guides.rubyonrails.org/action_cable_overview.html)
-* [actionmailbox](https://github.com/rails/rails/tree/main/actionmailbox) ⭐ 58,729 | 🐛 1,606 | 🌐 Ruby | 📅 2026-08-29 - A gem to handle incoming emails within a Rails app [:red\_circle:](https://rubygems.org/gems/actionmailbox) - [Action Mailbox Basics](https://guides.rubyonrails.org/action_mailbox_basics.html)
-* [actionmailer](https://github.com/rails/rails/tree/main/actionmailer) ⭐ 58,729 | 🐛 1,606 | 🌐 Ruby | 📅 2026-08-29 - A gem to compose, deliver & test emails within a Rails app [:red\_circle:](https://rubygems.org/gems/actionmailer) - [Action Mailer Basics](https://guides.rubyonrails.org/action_mailer_basics.html)
-* [actionpack](https://github.com/rails/rails/tree/main/actionpack) ⭐ 58,729 | 🐛 1,606 | 🌐 Ruby | 📅 2026-08-29 - A gem to manage requests & responses within a Rails app [:red\_circle:](https://rubygems.org/gems/actionpack)
-* [actiontext](https://github.com/rails/rails/tree/main/actiontext) ⭐ 58,729 | 🐛 1,606 | 🌐 Ruby | 📅 2026-08-29 - A gem to integrate rich text editor into a Rails app [:red\_circle:](https://rubygems.org/gems/actiontext) - [Action Text Overview](https://guides.rubyonrails.org/action_text_overview.html)
-* [actionview](https://github.com/rails/rails/tree/main/actionview) ⭐ 58,729 | 🐛 1,606 | 🌐 Ruby | 📅 2026-08-29 - A gem to handle view templates within a Rails app [:red\_circle:](https://rubygems.org/gems/actionview) - [Action View Overview](https://guides.rubyonrails.org/action_view_overview.html)
-* [activejob](https://github.com/rails/rails/tree/main/activejob) ⭐ 58,729 | 🐛 1,606 | 🌐 Ruby | 📅 2026-08-29 - A gem to handle background jobs within a Rails app [:red\_circle:](https://rubygems.org/gems/activejob) - [Active Job Basics](https://guides.rubyonrails.org/active_job_basics.html)
-* [activemodel](https://github.com/rails/rails/tree/main/activemodel) ⭐ 58,729 | 🐛 1,606 | 🌐 Ruby | 📅 2026-08-29 - A gem to define a set of interfaces to use in model classes within a Rails app [:red\_circle:](https://rubygems.org/gems/activemodel) - [Active Model Basics](https://guides.rubyonrails.org/active_model_basics.html)
-* [activerecord](https://github.com/rails/rails/tree/main/activerecord) ⭐ 58,729 | 🐛 1,606 | 🌐 Ruby | 📅 2026-08-29 - A gem to connect model classes with relational databases within a Rails app [:red\_circle:](https://rubygems.org/gems/activerecord) - [Active Record Basics](https://guides.rubyonrails.org/active_record_basics.html)
-* [activestorage](https://github.com/rails/rails/tree/main/activestorage) ⭐ 58,729 | 🐛 1,606 | 🌐 Ruby | 📅 2026-08-29 - A gem to handle file uploads to cloud storage providers within a Rails app [:red\_circle:](https://rubygems.org/gems/activestorage) - [Active Storage Overview](https://guides.rubyonrails.org/active_storage_overview.html)
-* [activesupport](https://github.com/rails/rails/tree/main/activesupport) ⭐ 58,729 | 🐛 1,606 | 🌐 Ruby | 📅 2026-08-29 - A gem to provide some extensions to support a Rails app [:red\_circle:](https://rubygems.org/gems/activesupport) - [Active Support Core Extensions](https://guides.rubyonrails.org/active_support_core_extensions.html)
-* [railties](https://github.com/rails/rails/tree/main/railties) ⭐ 58,729 | 🐛 1,606 | 🌐 Ruby | 📅 2026-08-29 - A gem to handle gems & engines used in a Rails app to work together [:red\_circle:](https://rubygems.org/gems/railties)
+* [actioncable](https://github.com/rails/rails/tree/main/actioncable) ⭐ 58,735 | 🐛 1,606 | 🌐 Ruby | 📅 2026-08-29 - A gem to integrate websocket with a Rails app [:red\_circle:](https://rubygems.org/gems/actioncable) - [Action Cable Overview](https://guides.rubyonrails.org/action_cable_overview.html)
+* [actionmailbox](https://github.com/rails/rails/tree/main/actionmailbox) ⭐ 58,735 | 🐛 1,606 | 🌐 Ruby | 📅 2026-08-29 - A gem to handle incoming emails within a Rails app [:red\_circle:](https://rubygems.org/gems/actionmailbox) - [Action Mailbox Basics](https://guides.rubyonrails.org/action_mailbox_basics.html)
+* [actionmailer](https://github.com/rails/rails/tree/main/actionmailer) ⭐ 58,735 | 🐛 1,606 | 🌐 Ruby | 📅 2026-08-29 - A gem to compose, deliver & test emails within a Rails app [:red\_circle:](https://rubygems.org/gems/actionmailer) - [Action Mailer Basics](https://guides.rubyonrails.org/action_mailer_basics.html)
+* [actionpack](https://github.com/rails/rails/tree/main/actionpack) ⭐ 58,735 | 🐛 1,606 | 🌐 Ruby | 📅 2026-08-29 - A gem to manage requests & responses within a Rails app [:red\_circle:](https://rubygems.org/gems/actionpack)
+* [actiontext](https://github.com/rails/rails/tree/main/actiontext) ⭐ 58,735 | 🐛 1,606 | 🌐 Ruby | 📅 2026-08-29 - A gem to integrate rich text editor into a Rails app [:red\_circle:](https://rubygems.org/gems/actiontext) - [Action Text Overview](https://guides.rubyonrails.org/action_text_overview.html)
+* [actionview](https://github.com/rails/rails/tree/main/actionview) ⭐ 58,735 | 🐛 1,606 | 🌐 Ruby | 📅 2026-08-29 - A gem to handle view templates within a Rails app [:red\_circle:](https://rubygems.org/gems/actionview) - [Action View Overview](https://guides.rubyonrails.org/action_view_overview.html)
+* [activejob](https://github.com/rails/rails/tree/main/activejob) ⭐ 58,735 | 🐛 1,606 | 🌐 Ruby | 📅 2026-08-29 - A gem to handle background jobs within a Rails app [:red\_circle:](https://rubygems.org/gems/activejob) - [Active Job Basics](https://guides.rubyonrails.org/active_job_basics.html)
+* [activemodel](https://github.com/rails/rails/tree/main/activemodel) ⭐ 58,735 | 🐛 1,606 | 🌐 Ruby | 📅 2026-08-29 - A gem to define a set of interfaces to use in model classes within a Rails app [:red\_circle:](https://rubygems.org/gems/activemodel) - [Active Model Basics](https://guides.rubyonrails.org/active_model_basics.html)
+* [activerecord](https://github.com/rails/rails/tree/main/activerecord) ⭐ 58,735 | 🐛 1,606 | 🌐 Ruby | 📅 2026-08-29 - A gem to connect model classes with relational databases within a Rails app [:red\_circle:](https://rubygems.org/gems/activerecord) - [Active Record Basics](https://guides.rubyonrails.org/active_record_basics.html)
+* [activestorage](https://github.com/rails/rails/tree/main/activestorage) ⭐ 58,735 | 🐛 1,606 | 🌐 Ruby | 📅 2026-08-29 - A gem to handle file uploads to cloud storage providers within a Rails app [:red\_circle:](https://rubygems.org/gems/activestorage) - [Active Storage Overview](https://guides.rubyonrails.org/active_storage_overview.html)
+* [activesupport](https://github.com/rails/rails/tree/main/activesupport) ⭐ 58,735 | 🐛 1,606 | 🌐 Ruby | 📅 2026-08-29 - A gem to provide some extensions to support a Rails app [:red\_circle:](https://rubygems.org/gems/activesupport) - [Active Support Core Extensions](https://guides.rubyonrails.org/active_support_core_extensions.html)
+* [railties](https://github.com/rails/rails/tree/main/railties) ⭐ 58,735 | 🐛 1,606 | 🌐 Ruby | 📅 2026-08-29 - A gem to handle gems & engines used in a Rails app to work together [:red\_circle:](https://rubygems.org/gems/railties)
 
 > Other gems that can be used with Rails
 
 * [devise](https://github.com/heartcombo/devise) ⭐ 24,359 | 🐛 231 | 🌐 Ruby | 📅 2026-06-22 - A gem to provide authentication. [:red\_circle:](https://rubygems.org/gems/devise)
-* [spree](https://github.com/spree/spree) ⭐ 15,652 | 🐛 134 | 🌐 Ruby | 📅 2026-08-28 - An open source e-commerce platform. [:red\_circle:](https://rubygems.org/gems/spree)
+* [spree](https://github.com/spree/spree) ⭐ 15,653 | 🐛 132 | 🌐 Ruby | 📅 2026-08-29 - An open source e-commerce platform. [:red\_circle:](https://rubygems.org/gems/spree)
 * [activeadmin](https://github.com/activeadmin/activeadmin) ⭐ 9,707 | 🐛 30 | 🌐 Ruby | 📅 2026-08-25 - A gem to provide admin panel. [:red\_circle:](https://rubygems.org/gems/activeadmin)
-* [carrierwave](https://github.com/carrierwaveuploader/carrierwave) ⭐ 8,779 | 🐛 59 | 🌐 Ruby | 📅 2026-08-28 - A gem to handle file uploads. [:red\_circle:](https://rubygems.org/gems/carrierwave)
+* [carrierwave](https://github.com/carrierwaveuploader/carrierwave) ⭐ 8,779 | 🐛 52 | 🌐 Ruby | 📅 2026-08-29 - A gem to handle file uploads. [:red\_circle:](https://rubygems.org/gems/carrierwave)
 * [kaminari](https://github.com/kaminari/kaminari) ⭐ 8,672 | 🐛 74 | 🌐 Ruby | 📅 2026-02-20 - A gem to provide pagination. [:red\_circle:](https://rubygems.org/gems/kaminari)
 * [simple\_form](https://github.com/heartcombo/simple_form) ⭐ 8,229 | 🐛 37 | 🌐 Ruby | 📅 2026-04-01 - A gem to handle forms. [:red\_circle:](https://rubygems.org/gems/simple_form)
 * [rails\_admin](https://github.com/railsadminteam/rails_admin) ⭐ 7,957 | 🐛 199 | 🌐 Ruby | 📅 2026-08-29 - A gem to create & manage admin panel for Rails app. [:red\_circle:](https://rubygems.org/gems/rails_admin)
@@ -413,11 +413,11 @@
 * [better\_errors](https://github.com/BetterErrors/better_errors) ⭐ 6,862 | 🐛 68 | 🌐 Ruby | 📅 2024-07-09 - A tool to provide better error page. [:red\_circle:](https://rubygems.org/gems/better_errors)
 * [react-rails](https://github.com/reactjs/react-rails) ⭐ 6,776 | 🐛 38 | 🌐 JavaScript | 📅 2026-07-31 - A gem to integrate React.js with Rails app. [:red\_circle:](https://rubygems.org/gems/react-rails)
 * [searchkick](https://github.com/ankane/searchkick) ⭐ 6,721 | 🐛 9 | 🌐 Ruby | 📅 2026-08-17 - A gem to provide search functionality. [:red\_circle:](https://rubygems.org/gems/searchkick)
-* [friendly\_id](https://github.com/norman/friendly_id) ⭐ 6,225 | 🐛 30 | 🌐 Ruby | 📅 2026-08-18 - A gem to deal with slugs & permalinks. [:red\_circle:](https://rubygems.org/gems/friendly_id)
+* [friendly\_id](https://github.com/norman/friendly_id) ⭐ 6,225 | 🐛 31 | 🌐 Ruby | 📅 2026-08-18 - A gem to deal with slugs & permalinks. [:red\_circle:](https://rubygems.org/gems/friendly_id)
 * [ransack](https://github.com/activerecord-hackery/ransack) ⭐ 5,863 | 🐛 156 | 🌐 Ruby | 📅 2026-05-31 - A gem to provide search functionality. [:red\_circle:](https://rubygems.org/gems/ransack)
 * [cancancan](https://github.com/cancancommunity/cancancan) ⭐ 5,686 | 🐛 92 | 🌐 Ruby | 📅 2026-08-09 - A gem to handle authorization. [:red\_circle:](https://rubygems.org/gems/cancancan)
-* [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) ⭐ 5,521 | 🐛 19 | 🌐 Ruby | 📅 2026-08-27 - A gem to introduce OAuth2 provider functionality. [:red\_circle:](https://rubygems.org/gems/doorkeeper)
-* [solidus](https://github.com/solidusio/solidus) ⭐ 5,324 | 🐛 109 | 🌐 Ruby | 📅 2026-08-28 - A fork of Spree gem, an open source e-commerce platform. [:red\_circle:](https://rubygems.org/gems/solidus)
+* [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) ⭐ 5,521 | 🐛 18 | 🌐 Ruby | 📅 2026-08-29 - A gem to introduce OAuth2 provider functionality. [:red\_circle:](https://rubygems.org/gems/doorkeeper)
+* [solidus](https://github.com/solidusio/solidus) ⭐ 5,325 | 🐛 109 | 🌐 Ruby | 📅 2026-08-28 - A fork of Spree gem, an open source e-commerce platform. [:red\_circle:](https://rubygems.org/gems/solidus)
 * [draper](https://github.com/drapergem/draper) ⭐ 5,276 | 🐛 28 | 🌐 Ruby | 📅 2026-05-29 - A gem to add presentation logic. [:red\_circle:](https://rubygems.org/gems/draper)
 * [webpacker](https://github.com/rails/webpacker) ⭐ 5,272 | 🐛 21 | 🌐 Ruby | 📅 2024-07-16 - A gem to bundle web assets using Webpack. [:red\_circle:](https://rubygems.org/gems/webpacker)
 * [rspec-rails](https://github.com/rspec/rspec-rails) ⭐ 5,270 | 🐛 68 | 🌐 Ruby | 📅 2026-08-27 - A testing framework. [:red\_circle:](https://rubygems.org/gems/rspec-rails)
@@ -434,12 +434,12 @@
 * [good\_job](https://github.com/bensheldon/good_job) ⭐ 2,993 | 🐛 127 | 🌐 Ruby | 📅 2026-08-15 - A gem to provide Postgres-based ActiveJob backend. [:red\_circle:](https://rubygems.org/gems/good_job)
 * [spring](https://github.com/rails/spring) ⭐ 2,815 | 🐛 55 | 🌐 Ruby | 📅 2026-06-30 - A gem to preload Rails app. [:red\_circle:](https://rubygems.org/gems/spring)
 * [apipie-rails](https://github.com/apipie/apipie-rails) ⭐ 2,507 | 🐛 234 | 🌐 Ruby | 📅 2026-06-26 - A REST API documentation tool. [:red\_circle:](https://rubygems.org/gems/apipie-rails)
-* [solid\_queue](https://github.com/basecamp/solid_queue) ⭐ 2,488 | 🐛 42 | 🌐 Ruby | 📅 2026-08-23 - A gem to Database-backed Active Job backend [:red\_circle:](https://rubygems.org/gems/solid_queue)
+* [solid\_queue](https://github.com/basecamp/solid_queue) ⭐ 2,488 | 🐛 42 | 🌐 Ruby | 📅 2026-08-29 - A gem to Database-backed Active Job backend [:red\_circle:](https://rubygems.org/gems/solid_queue)
 * [turbo-rails](https://github.com/hotwired/turbo-rails) ⭐ 2,389 | 🐛 127 | 🌐 Ruby | 📅 2026-07-01 - A gem to integrate Turbo.js in Rails apps. [:red\_circle:](https://rubygems.org/gems/turbo-rails)
 * [zeitwerk](https://github.com/fxn/zeitwerk) ⭐ 2,138 | 🐛 0 | 🌐 Ruby | 📅 2026-08-06 - A gem to handle thread-safe code loading. [:red\_circle:](https://rubygems.org/gems/zeitwerk)
 * [counter\_culture](https://github.com/magnusvk/counter_culture) ⭐ 2,118 | 🐛 3 | 🌐 Ruby | 📅 2026-07-08 - A gem to provide counter caches. [:red\_circle:](https://rubygems.org/gems/counter_culture)
 * [money-rails](https://github.com/RubyMoney/money-rails) ⭐ 1,889 | 🐛 15 | 🌐 Ruby | 📅 2026-07-06 - A gem to integrate Money gem in Rails apps. [:red\_circle:](https://rubygems.org/gems/money-rails)
-* [avo](https://github.com/avo-hq/avo) ⭐ 1,798 | 🐛 200 | 🌐 Ruby | 📅 2026-08-28 - Configuration-based, no-maintenance, extendable Ruby on Rails admin panel. [rubygems](https://rubygems.org/gems/avo)
+* [avo](https://github.com/avo-hq/avo) ⭐ 1,799 | 🐛 201 | 🌐 Ruby | 📅 2026-08-29 - Configuration-based, no-maintenance, extendable Ruby on Rails admin panel. [rubygems](https://rubygems.org/gems/avo)
 * [marginalia](https://github.com/basecamp/marginalia) ⭐ 1,768 | 🐛 12 | 🌐 Ruby | 📅 2026-08-24 - A gem to attach comments to ActiveRecord's SQL queries. [:red\_circle:](https://rubygems.org/gems/marginalia)
 * [premailer-rails](https://github.com/fphilipe/premailer-rails) ⭐ 1,765 | 🐛 14 | 🌐 Ruby | 📅 2024-06-17 - A gem to handle email styling. [:red\_circle:](https://rubygems.org/gems/premailer-rails)
 * [js-routes](https://github.com/railsware/js-routes) ⭐ 1,698 | 🐛 3 | 🌐 Ruby | 📅 2026-06-21 - A tool to generate all Rails routes as JavaScript helpers. [:red\_circle:](https://rubygems.org/gems/js-routes)
@@ -450,12 +450,12 @@
 * [rails\_event\_store](https://github.com/RailsEventStore/rails_event_store) ⭐ 1,552 | 🐛 15 | 🌐 Ruby | 📅 2026-08-27 - A gem to implement event store in Rails [:red\_circle:](https://rubygems.org/gems/rails_event_store)
 * [autoprefixer-rails](https://github.com/ai/autoprefixer-rails) ⭐ 1,210 | 🐛 7 | 🌐 Ruby | 📅 2025-04-12 - A gem to add vendor prefixes to stylesheets. [:red\_circle:](https://rubygems.org/gems/autoprefixer-rails)
 * [alba](https://github.com/okuramasafumi/alba) ⭐ 1,200 | 🐛 7 | 🌐 Ruby | 📅 2026-08-28 - A JSON serializer for Ruby, JRuby, and TruffleRuby. [:red\_circle:](https://rubygems.org/gems/alba)
-* [ahoy\_email](https://github.com/ankane/ahoy_email) ⭐ 1,191 | 🐛 1 | 🌐 Ruby | 📅 2026-08-17 - A tool to provide mail analytics. [:red\_circle:](https://rubygems.org/gems/ahoy_email)
+* [ahoy\_email](https://github.com/ankane/ahoy_email) ⭐ 1,192 | 🐛 1 | 🌐 Ruby | 📅 2026-08-17 - A tool to provide mail analytics. [:red\_circle:](https://rubygems.org/gems/ahoy_email)
 * [active\_decorator](https://github.com/amatsuda/active_decorator) ⭐ 1,129 | 🐛 12 | 🌐 Ruby | 📅 2026-06-19 - A gem to keep views & helpers object-oriented. [:red\_circle:](https://rubygems.org/gems/active_decorator)
 * [rails-settings-cached](https://github.com/huacnlee/rails-settings-cached) ⭐ 1,121 | 🐛 7 | 🌐 Ruby | 📅 2024-12-10 - A gem to manage global settings as key-value pairs. [:red\_circle:](https://rubygems.org/gems/rails-settings-cached)
 * [ranked-model](https://github.com/brendon/ranked-model) ⭐ 1,093 | 🐛 2 | 🌐 Ruby | 📅 2026-06-22 - A gem to handle sorting for rows. [:red\_circle:](https://rubygems.org/gems/ranked-model)
 * [sprockets](https://github.com/rails/sprockets) ⭐ 986 | 🐛 113 | 🌐 Ruby | 📅 2026-08-25 - A gem to compile & serve web assets. [:red\_circle:](https://rubygems.org/gems/sprockets)
-* [activerecord-sqlserver-adapter](https://github.com/rails-sqlserver/activerecord-sqlserver-adapter) ⭐ 981 | 🐛 21 | 🌐 Ruby | 📅 2026-08-22 - ActiveRecord connection adapter for the SQL Server. [:red\_circle:](https://rubygems.org/gems/activerecord-sqlserver-adapter)
+* [activerecord-sqlserver-adapter](https://github.com/rails-sqlserver/activerecord-sqlserver-adapter) ⭐ 981 | 🐛 21 | 🌐 Ruby | 📅 2026-08-29 - ActiveRecord connection adapter for the SQL Server. [:red\_circle:](https://rubygems.org/gems/activerecord-sqlserver-adapter)
 * [mailkick](https://github.com/ankane/mailkick) ⭐ 976 | 🐛 1 | 🌐 Ruby | 📅 2026-08-08 - A tool to handle mail unsubscriptions. [:red\_circle:](https://rubygems.org/gems/mailkick)
 * [hotwire-rails](https://github.com/hotwired/hotwire-rails) ⚠️ Archived - A gem to integrate Hotwire in Rails apps. [:red\_circle:](https://rubygems.org/gems/hotwire-rails)
 * [select2-rails](https://github.com/argerim/select2-rails) ⭐ 963 | 🐛 10 | 🌐 Ruby | 📅 2022-12-16 - A gem to integrate Select2 library in Rails apps. [:red\_circle:](https://rubygems.org/gems/select2-rails)
@@ -470,7 +470,7 @@
 * [sorbet-rails](https://github.com/chanzuckerberg/sorbet-rails) ⚠️ Archived - A gem to integrate Sorbet gem in Rails apps. [:red\_circle:](https://rubygems.org/gems/sorbet-rails)
 * [anycable-rails](https://github.com/anycable/anycable-rails) ⭐ 535 | 🐛 4 | 🌐 Ruby | 📅 2026-07-16 - A gem to handle websocket server. [:red\_circle:](https://rubygems.org/gems/anycable-rails)
 * [activity\_notification](https://github.com/simukappu/activity_notification) ⭐ 519 | 🐛 0 | 🌐 Ruby | 📅 2026-07-14 - A gem to integrate user activity notification. [:red\_circle:](https://rubygems.org/gems/activity_notification)
-* [shakapacker](https://github.com/shakacode/shakapacker) ⭐ 489 | 🐛 20 | 🌐 Ruby | 📅 2026-08-29 - A gem to use webpack to manage app-like JavaScript modules in Rails. [:red\_circle:](https://rubygems.org/gems/shakapacker)
+* [shakapacker](https://github.com/shakacode/shakapacker) ⭐ 489 | 🐛 21 | 🌐 Ruby | 📅 2026-08-29 - A gem to use webpack to manage app-like JavaScript modules in Rails. [:red\_circle:](https://rubygems.org/gems/shakapacker)
 * [tidewave](https://github.com/tidewave-ai/tidewave_rails) ⭐ 474 | 🐛 2 | 🌐 Ruby | 📅 2026-08-18 - MCP server for agentic Rails development, runtime-level tools for your agent to talk to your running app. [:red\_circle:](https://rubygems.org/gems/tidewave)
 * [activerecord-typedstore](https://github.com/byroot/activerecord-typedstore) ⭐ 467 | 🐛 24 | 🌐 Ruby | 📅 2024-02-28 - A gem to implement `ActiveRecord::Store` with type definition. [:red\_circle:](https://rubygems.org/gems/activerecord-typedstore)
 * [frozen\_record](https://github.com/byroot/frozen_record) ⭐ 448 | 🐛 9 | 🌐 Ruby | 📅 2026-08-23 - A gem to provide ActiveRecord-like interface to query static YAML files. [:red\_circle:](https://rubygems.org/gems/frozen_record)
@@ -515,7 +515,7 @@
 
 ## Starters/Boilerplates
 
-* [suspenders](https://github.com/thoughtbot/suspenders) ⭐ 4,043 | 🐛 1 | 🌐 Ruby | 📅 2026-08-28 - A Rails template with our standard defaults, ready to deploy to Heroku.
+* [suspenders](https://github.com/thoughtbot/suspenders) ⭐ 4,042 | 🐛 1 | 🌐 Ruby | 📅 2026-08-28 - A Rails template with our standard defaults, ready to deploy to Heroku.
 * [jumpstart(excid3)](https://github.com/excid3/jumpstart) ⚠️ Archived - Easily jumpstart a new Rails application with a bunch of great features by default.
 * [docker-rails](https://github.com/ledermann/docker-rails) ⚠️ Archived
 * [rails-template(mattbrictson)](https://github.com/mattbrictson/rails-template) ⚠️ Archived - Application template for Rails 6 projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
